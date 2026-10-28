@@ -13,7 +13,7 @@ This project explores what makes music artists successful on major music streami
 - Extract insights into the factors associated with artist popularity.
 - ...
 
-## Tools & Technologies
+## Tools & Packages
 
 - Python
 - Pandas, NumPy
@@ -23,7 +23,15 @@ This project explores what makes music artists successful on major music streami
 
 ## Project Structure
 
-...
+```text
+pds-music-analysis/
+├── data/
+│   └── artist_streams.csv
+├── notebooks/
+│   └── Group07_PDS_2627.ipynb
+├── .gitignore
+└── README.md
+```
 
 ## Authors
 
