@@ -35,6 +35,6 @@ pds-music-analysis/
 
 ## Authors
 
-**Group 07: Aakarshak, Abu, Fatima, Rasel**
+**Group 07: Abu, Fatima, Rasel, Umar**
 
 Programming for Data Science (PDS), 2026/2027
