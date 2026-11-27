@@ -1,0 +1,501 @@
+Artist ID,Artist Name,Matched Origin,Latitude,Longitude,Artist Wikipedia Page,Origin Location Page,Uncertain or Missing,Match Confidence,Match Status,Review Note
+0,Drake,,,,https://en.wikipedia.org/wiki/Drake,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+1,Taylor Swift,,,,https://en.wikipedia.org/wiki/Taylor_Swift,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+2,Bad Bunny,,,,https://en.wikipedia.org/wiki/Bad_Bunny,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+3,The Weeknd,,,,https://en.wikipedia.org/wiki/The_Weeknd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+4,Justin Bieber,,,,https://en.wikipedia.org/wiki/Justin_Bieber,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+5,Ariana Grande,,,,https://en.wikipedia.org/wiki/Ariana_Grande,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+6,Travis Scott,,,,https://en.wikipedia.org/wiki/Travis_Scott,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+7,Kanye West,,,,https://en.wikipedia.org/wiki/Kanye_West,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+8,Ed Sheeran,,,,https://en.wikipedia.org/wiki/Ed_Sheeran,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+9,Eminem,,,,https://en.wikipedia.org/wiki/Eminem,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+10,Rihanna,,,,https://en.wikipedia.org/wiki/Rihanna,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+11,Billie Eilish,,,,https://en.wikipedia.org/wiki/Billie_Eilish,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+12,Bruno Mars,,,,https://en.wikipedia.org/wiki/Bruno_Mars,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+13,Kendrick Lamar,,,,https://en.wikipedia.org/wiki/Kendrick_Lamar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+14,Post Malone,,,,https://en.wikipedia.org/wiki/Post_Malone,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+15,J Balvin,,,,https://en.wikipedia.org/wiki/J_Balvin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+16,Future,,,,https://en.wikipedia.org/wiki/Future,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+17,BTS,,,,https://en.wikipedia.org/wiki/BTS,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+18,Ozuna,,,,https://en.wikipedia.org/wiki/Ozuna,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+19,Coldplay,,,,https://en.wikipedia.org/wiki/Coldplay,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+20,Juice WRLD,,,,https://en.wikipedia.org/wiki/Juice_WRLD,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+21,Chris Brown,,,,https://en.wikipedia.org/wiki/Chris_Brown,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+22,Nicki Minaj,,,,https://en.wikipedia.org/wiki/Nicki_Minaj,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+23,Lana Del Rey,,,,https://en.wikipedia.org/wiki/Lana_Del_Rey,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+24,David Guetta,,,,https://en.wikipedia.org/wiki/David_Guetta,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+25,Dua Lipa,,,,https://en.wikipedia.org/wiki/Dua_Lipa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+26,Daddy Yankee,,,,https://en.wikipedia.org/wiki/Daddy_Yankee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+27,Rauw Alejandro,,,,https://en.wikipedia.org/wiki/Rauw_Alejandro,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+28,Anuel AA,,,,https://en.wikipedia.org/wiki/Anuel_AA,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+29,XXXTENTACION,,,,https://en.wikipedia.org/wiki/XXXTENTACION,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+30,Imagine Dragons,,,,https://en.wikipedia.org/wiki/Imagine_Dragons,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+31,Lil Wayne,,,,https://en.wikipedia.org/wiki/Lil_Wayne,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+32,21 Savage,,,,https://en.wikipedia.org/wiki/21_Savage,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+33,SZA,,,,https://en.wikipedia.org/wiki/SZA,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+34,Arijit Singh,,,,https://en.wikipedia.org/wiki/Arijit_Singh,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+35,Lady Gaga,,,,https://en.wikipedia.org/wiki/Lady_Gaga,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+36,KAROL G,,,,https://en.wikipedia.org/wiki/Karol_G,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+37,Lil Baby,,,,https://en.wikipedia.org/wiki/Lil_Baby,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+38,Maroon 5,,,,https://en.wikipedia.org/wiki/Maroon_5,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+39,Khalid,,,,https://en.wikipedia.org/wiki/Khalid,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+40,Beyoncé,,,,https://en.wikipedia.org/wiki/Beyonc%C3%A9,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+41,Maluma,,,,https://en.wikipedia.org/wiki/Maluma,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+42,Feid,,,,https://en.wikipedia.org/wiki/Feid,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+43,Calvin Harris,,,,https://en.wikipedia.org/wiki/Calvin_Harris,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+44,Myke Towers,,,,https://en.wikipedia.org/wiki/Myke_Towers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+45,Linkin Park,,,,https://en.wikipedia.org/wiki/Linkin_Park,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+46,Peso Pluma,,,,https://en.wikipedia.org/wiki/Peso_Pluma,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+47,J. Cole,,,,https://en.wikipedia.org/wiki/J._Cole,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+48,Lil Uzi Vert,,,,https://en.wikipedia.org/wiki/Lil_Uzi_Vert,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+49,Sia,,,,https://en.wikipedia.org/wiki/Sia,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+50,Doja Cat,,,,https://en.wikipedia.org/wiki/Doja_Cat,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+51,Shakira,,,,https://en.wikipedia.org/wiki/Shakira,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+52,Morgan Wallen,,,,https://en.wikipedia.org/wiki/Morgan_Wallen,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+53,Young Thug,,,,https://en.wikipedia.org/wiki/Young_Thug,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+54,Farruko,,,,https://en.wikipedia.org/wiki/Farruko,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+55,Shawn Mendes,,,,https://en.wikipedia.org/wiki/Shawn_Mendes,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+56,Harry Styles,,,,https://en.wikipedia.org/wiki/Harry_Styles,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+57,Queen,,,,https://en.wikipedia.org/wiki/Queen,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+58,Sam Smith,,,,https://en.wikipedia.org/wiki/Sam_Smith,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+59,One Direction,,,,https://en.wikipedia.org/wiki/One_Direction,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+60,Metro Boomin,,,,https://en.wikipedia.org/wiki/Metro_Boomin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+61,Olivia Rodrigo,,,,https://en.wikipedia.org/wiki/Olivia_Rodrigo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+62,Adele,,,,https://en.wikipedia.org/wiki/Adele,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+63,Pritam,,,,https://en.wikipedia.org/wiki/Pritam,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+64,Katy Perry,,,,https://en.wikipedia.org/wiki/Katy_Perry,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+65,Gunna,,,,https://en.wikipedia.org/wiki/Gunna,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+66,Arctic Monkeys,,,,https://en.wikipedia.org/wiki/Arctic_Monkeys,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+67,Fuerza Regida,,,,https://en.wikipedia.org/wiki/Fuerza_Regida,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+68,Junior H,,,,https://en.wikipedia.org/wiki/Junior_H,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+69,"Tyler, The Creator",,,,"https://en.wikipedia.org/wiki/Tyler,_The_Creator",,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+70,Selena Gomez,,,,https://en.wikipedia.org/wiki/Selena_Gomez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+71,Ty Dolla $ign,,,,https://en.wikipedia.org/wiki/Ty_Dolla_$ign,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+72,The Beatles,,,,https://en.wikipedia.org/wiki/The_Beatles,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+73,Pitbull,,,,https://en.wikipedia.org/wiki/Pitbull,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+74,Nicky Jam,,,,https://en.wikipedia.org/wiki/Nicky_Jam,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+75,Playboi Carti,,,,https://en.wikipedia.org/wiki/Playboi_Carti,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+76,Halsey,,,,https://en.wikipedia.org/wiki/Halsey,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+77,Wiz Khalifa,,,,https://en.wikipedia.org/wiki/Wiz_Khalifa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+78,Michael Jackson,,,,https://en.wikipedia.org/wiki/Michael_Jackson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+79,Sabrina Carpenter,,,,https://en.wikipedia.org/wiki/Sabrina_Carpenter,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+80,Frank Ocean,,,,https://en.wikipedia.org/wiki/Frank_Ocean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+81,Die drei ???,,,,https://en.wikipedia.org/wiki/Die_drei_%3F%3F%3F,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
+82,JAŸ-Z,,,,https://en.wikipedia.org/wiki/JA%C5%B8-Z,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+83,A$AP Rocky,,,,https://en.wikipedia.org/wiki/A$AP_Rocky,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+84,Miley Cyrus,,,,https://en.wikipedia.org/wiki/Miley_Cyrus,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+85,The Chainsmokers,,,,https://en.wikipedia.org/wiki/The_Chainsmokers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+86,Marshmello,,,,https://en.wikipedia.org/wiki/Marshmello,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+87,Cardi B,,,,https://en.wikipedia.org/wiki/Cardi_B,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+88,Twenty One Pilots,,,,https://en.wikipedia.org/wiki/Twenty_One_Pilots,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+89,Disney,,,,https://en.wikipedia.org/wiki/Disney,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
+90,Arcángel,,,,https://en.wikipedia.org/wiki/Arc%C3%A1ngel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+91,Red Hot Chili Peppers,,,,https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+92,Camila Cabello,,,,https://en.wikipedia.org/wiki/Camila_Cabello,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+93,$uicideboy$,,,,https://en.wikipedia.org/wiki/$uicideboy$,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+94,OneRepublic,,,,https://en.wikipedia.org/wiki/OneRepublic,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+95,Avicii,,,,https://en.wikipedia.org/wiki/Avicii,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+96,Diplo,,,,https://en.wikipedia.org/wiki/Diplo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+97,Snoop Dogg,,,,https://en.wikipedia.org/wiki/Snoop_Dogg,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+98,Romeo Santos,,,,https://en.wikipedia.org/wiki/Romeo_Santos,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+99,50 Cent,,,,https://en.wikipedia.org/wiki/50_Cent,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+100,Natanael Cano,,,,https://en.wikipedia.org/wiki/Natanael_Cano,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+101,YoungBoy Never Broke Again,,,,https://en.wikipedia.org/wiki/YoungBoy_Never_Broke_Again,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+102,Mac Miller,,,,https://en.wikipedia.org/wiki/Mac_Miller,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+103,DaBaby,,,,https://en.wikipedia.org/wiki/DaBaby,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+104,Don Toliver,,,,https://en.wikipedia.org/wiki/Don_Toliver,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+105,Zach Bryan,,,,https://en.wikipedia.org/wiki/Zach_Bryan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+106,Kygo,,,,https://en.wikipedia.org/wiki/Kygo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+107,Sech,,,,https://en.wikipedia.org/wiki/Sech,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+108,The Neighbourhood,,,,https://en.wikipedia.org/wiki/The_Neighbourhood,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+109,Quavo,,,,https://en.wikipedia.org/wiki/Quavo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+110,Henrique & Juliano,,,,https://en.wikipedia.org/wiki/Henrique_%26_Juliano,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+111,Luke Combs,,,,https://en.wikipedia.org/wiki/Luke_Combs,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+112,Elton John,,,,https://en.wikipedia.org/wiki/Elton_John,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+113,Manuel Turizo,,,,https://en.wikipedia.org/wiki/Manuel_Turizo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+114,Trippie Redd,,,,https://en.wikipedia.org/wiki/Trippie_Redd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+115,Tate McRae,,,,https://en.wikipedia.org/wiki/Tate_McRae,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+116,Lil Peep,,,,https://en.wikipedia.org/wiki/Lil_Peep,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+117,Metallica,,,,https://en.wikipedia.org/wiki/Metallica,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+118,Don Omar,,,,https://en.wikipedia.org/wiki/Don_Omar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+119,USHER,,,,https://en.wikipedia.org/wiki/USHER,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+120,Charlie Puth,,,,https://en.wikipedia.org/wiki/Charlie_Puth,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+121,Justin Timberlake,,,,https://en.wikipedia.org/wiki/Justin_Timberlake,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+122,Tiësto,,,,https://en.wikipedia.org/wiki/Ti%C3%ABsto,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+123,Sean Paul,,,,https://en.wikipedia.org/wiki/Sean_Paul,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+124,Tyga,,,,https://en.wikipedia.org/wiki/Tyga,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+125,Kali Uchis,,,,https://en.wikipedia.org/wiki/Kali_Uchis,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+126,Kodak Black,,,,https://en.wikipedia.org/wiki/Kodak_Black,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+127,Jason Derulo,,,,https://en.wikipedia.org/wiki/Jason_Derulo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+128,BLACKPINK,,,,https://en.wikipedia.org/wiki/BLACKPINK,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+129,JHAYCO,,,,https://en.wikipedia.org/wiki/Jhayco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+130,Bebe Rexha,,,,https://en.wikipedia.org/wiki/Bebe_Rexha,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+131,Daft Punk,,,,https://en.wikipedia.org/wiki/Daft_Punk,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+132,Luis Miguel,,,,https://en.wikipedia.org/wiki/Luis_Miguel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+133,Demi Lovato,,,,https://en.wikipedia.org/wiki/Demi_Lovato,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+134,Akon,,,,https://en.wikipedia.org/wiki/Akon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+135,AC/DC,,,,https://en.wikipedia.org/wiki/AC/DC,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+136,Sebastian Yatra,,,,https://en.wikipedia.org/wiki/Sebastian_Yatra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+137,Carín León,,,,https://en.wikipedia.org/wiki/Car%C3%ADn_Le%C3%B3n,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+138,Alan Walker,,,,https://en.wikipedia.org/wiki/Alan_Walker,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+139,A Boogie Wit da Hoodie,,,,https://en.wikipedia.org/wiki/A_Boogie_Wit_da_Hoodie,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+140,Fleetwood Mac,,,,https://en.wikipedia.org/wiki/Fleetwood_Mac,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+141,Hozier,,,,https://en.wikipedia.org/wiki/Hozier,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+142,Ellie Goulding,,,,https://en.wikipedia.org/wiki/Ellie_Goulding,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+143,Radiohead,,,,https://en.wikipedia.org/wiki/Radiohead,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+144,Big Sean,,,,https://en.wikipedia.org/wiki/Big_Sean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+145,Flo Rida,,,,https://en.wikipedia.org/wiki/Flo_Rida,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+146,P!nk,,,,https://en.wikipedia.org/wiki/P!nk,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+147,Nirvana,,,,https://en.wikipedia.org/wiki/Nirvana,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+148,Pop Smoke,,,,https://en.wikipedia.org/wiki/Pop_Smoke,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+149,Britney Spears,,,,https://en.wikipedia.org/wiki/Britney_Spears,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+150,James Arthur,,,,https://en.wikipedia.org/wiki/James_Arthur,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+151,Tory Lanez,,,,https://en.wikipedia.org/wiki/Tory_Lanez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+152,Pharrell Williams,,,,https://en.wikipedia.org/wiki/Pharrell_Williams,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+153,DJ Snake,,,,https://en.wikipedia.org/wiki/DJ_Snake,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+154,Daniel Caesar,,,,https://en.wikipedia.org/wiki/Daniel_Caesar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+155,Black Eyed Peas,,,,https://en.wikipedia.org/wiki/Black_Eyed_Peas,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+156,Swae Lee,,,,https://en.wikipedia.org/wiki/Swae_Lee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+157,Shreya Ghoshal,,,,https://en.wikipedia.org/wiki/Shreya_Ghoshal,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+158,Duki,,,,https://en.wikipedia.org/wiki/Duki,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+159,Bizarrap,,,,https://en.wikipedia.org/wiki/Bizarrap,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+160,Migos,,,,https://en.wikipedia.org/wiki/Migos,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+161,The Kid LAROI,,,,https://en.wikipedia.org/wiki/The_Kid_LAROI,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+162,Marília Mendonça,,,,https://en.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+163,Anitta,,,,https://en.wikipedia.org/wiki/Anitta,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+164,Green Day,,,,https://en.wikipedia.org/wiki/Green_Day,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+165,Lil Durk,,,,https://en.wikipedia.org/wiki/Lil_Durk,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+166,Polo G,,,,https://en.wikipedia.org/wiki/Polo_G,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+167,A.R. Rahman,,,,https://en.wikipedia.org/wiki/A.R._Rahman,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+168,G-Eazy,,,,https://en.wikipedia.org/wiki/G-Eazy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+169,Kid Cudi,,,,https://en.wikipedia.org/wiki/Kid_Cudi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+170,Justin Quiles,,,,https://en.wikipedia.org/wiki/Justin_Quiles,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+171,Bob Marley & The Wailers,,,,https://en.wikipedia.org/wiki/Bob_Marley_%26_The_Wailers,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+172,Stray Kids,,,,https://en.wikipedia.org/wiki/Stray_Kids,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+173,Anirudh Ravichander,,,,https://en.wikipedia.org/wiki/Anirudh_Ravichander,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+174,Ne-Yo,,,,https://en.wikipedia.org/wiki/Ne-Yo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+175,Gucci Mane,,,,https://en.wikipedia.org/wiki/Gucci_Mane,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+176,ROSALÍA,,,,https://en.wikipedia.org/wiki/Rosal%C3%ADa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+177,Charli xcx,,,,https://en.wikipedia.org/wiki/Charli_xcx,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+178,Joji,,,,https://en.wikipedia.org/wiki/Joji,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+179,Fall Out Boy,,,,https://en.wikipedia.org/wiki/Fall_Out_Boy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+180,PARTYNEXTDOOR,,,,https://en.wikipedia.org/wiki/PARTYNEXTDOOR,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+181,Jorge & Mateus,,,,https://en.wikipedia.org/wiki/Jorge_%26_Mateus,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+182,Offset,,,,https://en.wikipedia.org/wiki/Offset,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+183,Panic! At The Disco,,,,https://en.wikipedia.org/wiki/Panic!_At_The_Disco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+184,Tame Impala,,,,https://en.wikipedia.org/wiki/Tame_Impala,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+185,Quevedo,,,,https://en.wikipedia.org/wiki/Quevedo,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+186,Morat,,,,https://en.wikipedia.org/wiki/Morat,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+187,Zara Larsson,,,,https://en.wikipedia.org/wiki/Zara_Larsson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+188,Tito Double P,,,,https://en.wikipedia.org/wiki/Tito_Double_P,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+189,Jul,,,,https://en.wikipedia.org/wiki/Jul,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+190,2Pac,,,,https://en.wikipedia.org/wiki/2Pac,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+191,Gorillaz,,,,https://en.wikipedia.org/wiki/Gorillaz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+192,Lewis Capaldi,,,,https://en.wikipedia.org/wiki/Lewis_Capaldi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+193,Grupo Frontera,,,,https://en.wikipedia.org/wiki/Grupo_Frontera,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+194,Camilo,,,,https://en.wikipedia.org/wiki/Camilo,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+195,Lenny Tavárez,,,,https://en.wikipedia.org/wiki/Lenny_Tav%C3%A1rez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+196,2 Chainz,,,,https://en.wikipedia.org/wiki/2_Chainz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+197,NF,,,,https://en.wikipedia.org/wiki/NF,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+198,Bryson Tiller,,,,https://en.wikipedia.org/wiki/Bryson_Tiller,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+199,Rels B,,,,https://en.wikipedia.org/wiki/Rels_B,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+200,Roddy Ricch,,,,https://en.wikipedia.org/wiki/Roddy_Ricch,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+201,Guns N' Roses,,,,https://en.wikipedia.org/wiki/Guns_N%27_Roses,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+202,Mariah Carey,,,,https://en.wikipedia.org/wiki/Mariah_Carey,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+203,Noah Kahan,,,,https://en.wikipedia.org/wiki/Noah_Kahan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+204,Megan Thee Stallion,,,,https://en.wikipedia.org/wiki/Megan_Thee_Stallion,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+205,Christian Nodal,,,,https://en.wikipedia.org/wiki/Christian_Nodal,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+206,Brent Faiyaz,,,,https://en.wikipedia.org/wiki/Brent_Faiyaz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+207,Martin Garrix,,,,https://en.wikipedia.org/wiki/Martin_Garrix,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+208,Banda MS de Sergio Lizárraga,,,,https://en.wikipedia.org/wiki/Banda_MS_de_Sergio_Liz%C3%A1rraga,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+209,Pink Floyd,,,,https://en.wikipedia.org/wiki/Pink_Floyd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+210,mgk,,,,https://en.wikipedia.org/wiki/Mgk,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+211,Wisin & Yandel,,,,https://en.wikipedia.org/wiki/Wisin_%26_Yandel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+212,Dr. Dre,,,,https://en.wikipedia.org/wiki/Dr._Dre,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+213,Mora,,,,https://en.wikipedia.org/wiki/Mora,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+214,Cigarettes After Sex,,,,https://en.wikipedia.org/wiki/Cigarettes_After_Sex,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+215,Childish Gambino,,,,https://en.wikipedia.org/wiki/Childish_Gambino,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+216,Wisin,,,,https://en.wikipedia.org/wiki/Wisin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+217,Major Lazer,,,,https://en.wikipedia.org/wiki/Major_Lazer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+218,John Mayer,,,,https://en.wikipedia.org/wiki/John_Mayer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+219,Miguel,,,,https://en.wikipedia.org/wiki/Miguel,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+220,Lil Nas X,,,,https://en.wikipedia.org/wiki/Lil_Nas_X,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+221,System Of A Down,,,,https://en.wikipedia.org/wiki/System_Of_A_Down,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+222,Logic,,,,https://en.wikipedia.org/wiki/Logic,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+223,ABBA,,,,https://en.wikipedia.org/wiki/ABBA,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+224,Becky G,,,,https://en.wikipedia.org/wiki/Becky_G,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+225,Yandel,,,,https://en.wikipedia.org/wiki/Yandel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+226,Enrique Iglesias,,,,https://en.wikipedia.org/wiki/Enrique_Iglesias,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+227,Lil Yachty,,,,https://en.wikipedia.org/wiki/Lil_Yachty,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+228,Luis R Conriquez,,,,https://en.wikipedia.org/wiki/Luis_R_Conriquez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+229,Zion & Lennox,,,,https://en.wikipedia.org/wiki/Zion_%26_Lennox,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+230,5 Seconds of Summer,,,,https://en.wikipedia.org/wiki/5_Seconds_of_Summer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+231,Jack Harlow,,,,https://en.wikipedia.org/wiki/Jack_Harlow,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+232,TWICE,,,,https://en.wikipedia.org/wiki/TWICE,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+233,Ñengo Flow,,,,https://en.wikipedia.org/wiki/%C3%91engo_Flow,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+234,Ava Max,,,,https://en.wikipedia.org/wiki/Ava_Max,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+235,ZAYN,,,,https://en.wikipedia.org/wiki/ZAYN,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+236,Michael Bublé,,,,https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+237,Macklemore,,,,https://en.wikipedia.org/wiki/Macklemore,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+238,Anne-Marie,,,,https://en.wikipedia.org/wiki/Anne-Marie,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+239,The Rolling Stones,,,,https://en.wikipedia.org/wiki/The_Rolling_Stones,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+240,Frank Sinatra,,,,https://en.wikipedia.org/wiki/Frank_Sinatra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+241,Robin Schulz,,,,https://en.wikipedia.org/wiki/Robin_Schulz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+242,Bryant Myers,,,,https://en.wikipedia.org/wiki/Bryant_Myers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+243,Gusttavo Lima,,,,https://en.wikipedia.org/wiki/Gusttavo_Lima,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+244,Eladio Carrion,,,,https://en.wikipedia.org/wiki/Eladio_Carrion,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+245,Grupo Firme,,,,https://en.wikipedia.org/wiki/Grupo_Firme,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+246,Amitabh Bhattacharya,,,,https://en.wikipedia.org/wiki/Amitabh_Bhattacharya,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+247,Alicia Keys,,,,https://en.wikipedia.org/wiki/Alicia_Keys,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+248,Kesha,,,,https://en.wikipedia.org/wiki/Kesha,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+249,LAUV,,,,https://en.wikipedia.org/wiki/Lauv,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+250,Madonna,,,,https://en.wikipedia.org/wiki/Madonna,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+251,Reik,,,,https://en.wikipedia.org/wiki/Reik,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+252,John Legend,,,,https://en.wikipedia.org/wiki/John_Legend,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+253,Meghan Trainor,,,,https://en.wikipedia.org/wiki/Meghan_Trainor,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+254,Lil Tecca,,,,https://en.wikipedia.org/wiki/Lil_Tecca,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+255,Lorde,,,,https://en.wikipedia.org/wiki/Lorde,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+256,MC Ryan SP,,,,https://en.wikipedia.org/wiki/MC_Kevin,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+257,Chris Stapleton,,,,https://en.wikipedia.org/wiki/Chris_Stapleton,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+258,French Montana,,,,https://en.wikipedia.org/wiki/French_Montana,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+259,Melanie Martinez,,,,https://en.wikipedia.org/wiki/Melanie_Martinez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+260,Elvis Presley,,,,https://en.wikipedia.org/wiki/Elvis_Presley,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+261,Rick Ross,,,,https://en.wikipedia.org/wiki/Rick_Ross,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+262,Cris MJ,,,,https://en.wikipedia.org/wiki/Cris_MJ,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+263,Zedd,,,,https://en.wikipedia.org/wiki/Zedd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+264,Paramore,,,,https://en.wikipedia.org/wiki/Paramore,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+265,Chance the Rapper,,,,https://en.wikipedia.org/wiki/Chance_the_Rapper,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+266,Ninho,,,,https://en.wikipedia.org/wiki/Ninho,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+267,blackbear,,,,https://en.wikipedia.org/wiki/Blackbear,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+268,Creedence Clearwater Revival,,,,https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+269,T-Pain,,,,https://en.wikipedia.org/wiki/T-Pain,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+270,Jung Kook,,,,https://en.wikipedia.org/wiki/Jung_Kook,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+271,Skrillex,,,,https://en.wikipedia.org/wiki/Skrillex,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+272,DJ Khaled,,,,https://en.wikipedia.org/wiki/DJ_Khaled,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+273,Wizkid,,,,https://en.wikipedia.org/wiki/Wizkid,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+274,Oasis,,,,https://en.wikipedia.org/wiki/Oasis,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+275,Christina Aguilera,,,,https://en.wikipedia.org/wiki/Christina_Aguilera,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+276,Slipknot,,,,https://en.wikipedia.org/wiki/Slipknot,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+277,Irshad Kamil,,,,https://en.wikipedia.org/wiki/Irshad_Kamil,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+278,Little Mix,,,,https://en.wikipedia.org/wiki/Little_Mix,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+279,Beéle,,,,https://en.wikipedia.org/wiki/Be%C3%A9le,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+280,The Notorious B.I.G.,,,,https://en.wikipedia.org/wiki/The_Notorious_B.I.G.,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+281,Mitski,,,,https://en.wikipedia.org/wiki/Mitski,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+282,Tainy,,,,https://en.wikipedia.org/wiki/Tainy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+283,Zé Neto & Cristiano,,,,https://en.wikipedia.org/wiki/Cristiano_Ara%C3%BAjo,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+284,Rammstein,,,,https://en.wikipedia.org/wiki/Rammstein,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+285,Labrinth,,,,https://en.wikipedia.org/wiki/Labrinth,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+286,Chencho Corleone,,,,https://en.wikipedia.org/wiki/Chencho_Corleone,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+287,Darell,,,,https://en.wikipedia.org/wiki/Darell,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+288,Bon Jovi,,,,https://en.wikipedia.org/wiki/Bon_Jovi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+289,The Killers,,,,https://en.wikipedia.org/wiki/The_Killers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+290,blink-182,,,,https://en.wikipedia.org/wiki/Blink-182,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+291,Summer Walker,,,,https://en.wikipedia.org/wiki/Summer_Walker,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+292,Jhené Aiko,,,,https://en.wikipedia.org/wiki/Jhen%C3%A9_Aiko,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+293,Kehlani,,,,https://en.wikipedia.org/wiki/Kehlani,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+294,Clean Bandit,,,,https://en.wikipedia.org/wiki/Clean_Bandit,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+295,David Bowie,,,,https://en.wikipedia.org/wiki/David_Bowie,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+296,U2,,,,https://en.wikipedia.org/wiki/U2,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+297,Aventura,,,,https://en.wikipedia.org/wiki/Aventura,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+298,Foo Fighters,,,,https://en.wikipedia.org/wiki/Foo_Fighters,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+299,The 1975,,,,https://en.wikipedia.org/wiki/The_1975,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+300,Maria Becerra,,,,https://en.wikipedia.org/wiki/Maria_Becerra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+301,Plan B,,,,https://en.wikipedia.org/wiki/Plan_B,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+302,Steve Lacy,,,,https://en.wikipedia.org/wiki/Steve_Lacy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+303,De La Ghetto,,,,https://en.wikipedia.org/wiki/De_La_Ghetto,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+304,Troye Sivan,,,,https://en.wikipedia.org/wiki/Troye_Sivan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+305,Conan Gray,,,,https://en.wikipedia.org/wiki/Conan_Gray,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+306,Ludacris,,,,https://en.wikipedia.org/wiki/Ludacris,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+307,Burna Boy,,,,https://en.wikipedia.org/wiki/Burna_Boy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+308,Danny Ocean,,,,https://en.wikipedia.org/wiki/Danny_Ocean,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+309,Meek Mill,,,,https://en.wikipedia.org/wiki/Meek_Mill,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+310,My Chemical Romance,,,,https://en.wikipedia.org/wiki/My_Chemical_Romance,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+311,Alessia Cara,,,,https://en.wikipedia.org/wiki/Alessia_Cara,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+312,Vishal-Shekhar,,,,https://en.wikipedia.org/wiki/Vishal-Shekhar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+313,Paulo Londra,,,,https://en.wikipedia.org/wiki/Paulo_Londra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+314,La Arrolladora Banda El Limón De Rene Camacho,,,,https://en.wikipedia.org/wiki/La_Arrolladora_Banda_el_Limon_de_Rene_Camacho,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
+315,Yeat,,,,https://en.wikipedia.org/wiki/Yeat,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+316,Matheus & Kauan,,,,https://en.wikipedia.org/wiki/Matheus_%26_Kauan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+317,Alok,,,,https://en.wikipedia.org/wiki/Alok,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+318,Bring Me The Horizon,,,,https://en.wikipedia.org/wiki/Bring_Me_The_Horizon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+319,Central Cee,,,,https://en.wikipedia.org/wiki/Central_Cee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+320,League of Legends,,,,https://en.wikipedia.org/wiki/League_of_Legends,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+321,Mac DeMarco,,,,https://en.wikipedia.org/wiki/Mac_DeMarco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+322,Benson Boone,,,,https://en.wikipedia.org/wiki/Benson_Boone,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+323,Dalex,,,,https://en.wikipedia.org/wiki/Dalex,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+324,Nickelback,,,,https://en.wikipedia.org/wiki/Nickelback,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+325,Marc Anthony,,,,https://en.wikipedia.org/wiki/Marc_Anthony,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+326,Maná,,,,https://en.wikipedia.org/wiki/Man%C3%A1,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+327,Led Zeppelin,,,,https://en.wikipedia.org/wiki/Led_Zeppelin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+328,Måneskin,,,,https://en.wikipedia.org/wiki/M%C3%A5neskin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+329,Florida Georgia Line,,,,https://en.wikipedia.org/wiki/Florida_Georgia_Line,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+330,Luis Fonsi,,,,https://en.wikipedia.org/wiki/Luis_Fonsi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+331,RAYE,,,,https://en.wikipedia.org/wiki/RAYE,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+332,Neton Vega,,,,https://en.wikipedia.org/wiki/Neton_Vega,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+333,Gracie Abrams,,,,https://en.wikipedia.org/wiki/Gracie_Abrams,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+334,Timbaland,,,,https://en.wikipedia.org/wiki/Timbaland,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+335,Jeremih,,,,https://en.wikipedia.org/wiki/Jeremih,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+336,The Lumineers,,,,https://en.wikipedia.org/wiki/The_Lumineers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+337,Oscar Maydon,,,,https://en.wikipedia.org/wiki/Oscar_Maydon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+338,Anderson .Paak,,,,https://en.wikipedia.org/wiki/Anderson_.Paak,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+339,Chase Atlantic,,,,https://en.wikipedia.org/wiki/Chase_Atlantic,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+340,Julión Álvarez y su Norteño Banda,,,,https://en.wikipedia.org/wiki/Juli%C3%B3n_%C3%81lvarez_y_su_Norte%C3%B1o_Banda,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+341,Prince Royce,,,,https://en.wikipedia.org/wiki/Prince_Royce,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+342,Bastille,,,,https://en.wikipedia.org/wiki/Bastille,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+343,Sfera Ebbasta,,,,https://en.wikipedia.org/wiki/Sfera_Ebbasta,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+344,Florence + The Machine,,,,https://en.wikipedia.org/wiki/Florence_%2B_The_Machine,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+345,YG,,,,https://en.wikipedia.org/wiki/YG,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+346,Alejandro Sanz,,,,https://en.wikipedia.org/wiki/Alejandro_Sanz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+347,Lil Tjay,,,,https://en.wikipedia.org/wiki/Lil_Tjay,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+348,GIVĒON,,,,https://en.wikipedia.org/wiki/GIV%C4%92ON,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+349,Billy Joel,,,,https://en.wikipedia.org/wiki/Billy_Joel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+350,Luke Bryan,,,,https://en.wikipedia.org/wiki/Luke_Bryan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+351,Muse,,,,https://en.wikipedia.org/wiki/Muse,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
+352,Jonas Blue,,,,https://en.wikipedia.org/wiki/Jonas_Blue,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+353,Teddy Swims,,,,https://en.wikipedia.org/wiki/Teddy_Swims,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+354,Juanes,,,,https://en.wikipedia.org/wiki/Juanes,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+355,Jennifer Lopez,,,,https://en.wikipedia.org/wiki/Jennifer_Lopez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+356,Cartel De Santa,,,,https://en.wikipedia.org/wiki/Cartel_De_Santa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+357,T.I.,,,,https://en.wikipedia.org/wiki/T.I.,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+358,Gabito Ballesteros,,,,https://en.wikipedia.org/wiki/Gabito_Ballesteros,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+359,El Alfa,,,,https://en.wikipedia.org/wiki/El_Alfa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+360,Alka Yagnik,,,,https://en.wikipedia.org/wiki/Alka_Yagnik,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+361,Blessd,,,,https://en.wikipedia.org/wiki/Blessd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+362,NATTI NATASHA,,,,https://en.wikipedia.org/wiki/Natti_Natasha,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+363,Bruce Springsteen,,,,https://en.wikipedia.org/wiki/Bruce_Springsteen,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+364,Alfredo Olivas,,,,https://en.wikipedia.org/wiki/Alfredo_Olivas,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+365,Jonas Brothers,,,,https://en.wikipedia.org/wiki/Jonas_Brothers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+366,Hans Zimmer,,,,https://en.wikipedia.org/wiki/Hans_Zimmer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+367,Julia Michaels,,,,https://en.wikipedia.org/wiki/Julia_Michaels,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+368,Deftones,,,,https://en.wikipedia.org/wiki/Deftones,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+369,Clairo,,,,https://en.wikipedia.org/wiki/Clairo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+370,Whitney Houston,,,,https://en.wikipedia.org/wiki/Whitney_Houston,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+371,Tove Lo,,,,https://en.wikipedia.org/wiki/Tove_Lo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+372,DJ Luian,,,,https://en.wikipedia.org/wiki/DJ_Luian,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+373,Amy Winehouse,,,,https://en.wikipedia.org/wiki/Amy_Winehouse,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+374,TV Girl,,,,https://en.wikipedia.org/wiki/TV_Girl,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+375,Tanishk Bagchi,,,,https://en.wikipedia.org/wiki/Tanishk_Bagchi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+376,Dave,,,,https://en.wikipedia.org/wiki/Dave,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+377,Avril Lavigne,,,,https://en.wikipedia.org/wiki/Avril_Lavigne,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+378,Lost Frequencies,,,,https://en.wikipedia.org/wiki/Lost_Frequencies,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+379,Kings of Leon,,,,https://en.wikipedia.org/wiki/Kings_of_Leon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+380,Joan Sebastian,,,,https://en.wikipedia.org/wiki/Joan_Sebastian,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+381,Alejandro Fernández,,,,https://en.wikipedia.org/wiki/Alejandro_Fern%C3%A1ndez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+382,Glass Animals,,,,https://en.wikipedia.org/wiki/Glass_Animals,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+383,Sachin-Jigar,,,,https://en.wikipedia.org/wiki/Sachin-Jigar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+384,Fetty Wap,,,,https://en.wikipedia.org/wiki/Fetty_Wap,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+385,NAV,,,,https://en.wikipedia.org/wiki/NAV,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+386,Jack Johnson,,,,https://en.wikipedia.org/wiki/Jack_Johnson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+387,SEVENTEEN,,,,https://en.wikipedia.org/wiki/SEVENTEEN,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+388,The Script,,,,https://en.wikipedia.org/wiki/The_Script,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+389,TINI,,,,https://en.wikipedia.org/wiki/TINI,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+390,Backstreet Boys,,,,https://en.wikipedia.org/wiki/Backstreet_Boys,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+391,Jimin,,,,https://en.wikipedia.org/wiki/Jimin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+392,Mambo Kingz,,,,https://en.wikipedia.org/wiki/DJ_Luian,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+393,NLE Choppa,,,,https://en.wikipedia.org/wiki/NLE_Choppa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+394,GIMS,,,,https://en.wikipedia.org/wiki/GIMS,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+395,Calibre 50,,,,https://en.wikipedia.org/wiki/Calibre_50,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+396,Chappell Roan,,,,https://en.wikipedia.org/wiki/Chappell_Roan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+397,Stevie Wonder,,,,https://en.wikipedia.org/wiki/Stevie_Wonder,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+398,Juicy J,,,,https://en.wikipedia.org/wiki/Juicy_J,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+399,Mark Ronson,,,,https://en.wikipedia.org/wiki/Mark_Ronson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+400,Kelly Clarkson,,,,https://en.wikipedia.org/wiki/Kelly_Clarkson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+401,The Offspring,,,,https://en.wikipedia.org/wiki/The_Offspring,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+402,Bonez MC,,,,https://en.wikipedia.org/wiki/Bonez_MC,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+403,Bibi Blocksberg,,,,https://en.wikipedia.org/wiki/Bibi_Blocksberg,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+404,Milo j,,,,https://en.wikipedia.org/wiki/Milo_J,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+405,Jay Wheeler,,,,https://en.wikipedia.org/wiki/Jay_Wheeler,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+406,felix jaehn,,,,https://en.wikipedia.org/wiki/Felix_Jaehn,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+407,Niall Horan,,,,https://en.wikipedia.org/wiki/Niall_Horan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+408,6ix9ine,,,,https://en.wikipedia.org/wiki/6ix9ine,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+409,Nate Dogg,,,,https://en.wikipedia.org/wiki/Nate_Dogg,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+410,Noriel,,,,https://en.wikipedia.org/wiki/Noriel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+411,Vicente Fernández,,,,https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+412,Three Days Grace,,,,https://en.wikipedia.org/wiki/Three_Days_Grace,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+413,Aerosmith,,,,https://en.wikipedia.org/wiki/Aerosmith,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+414,Bee Gees,,,,https://en.wikipedia.org/wiki/Bee_Gees,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+415,Udit Narayan,,,,https://en.wikipedia.org/wiki/Udit_Narayan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+416,Piso 21,,,,https://en.wikipedia.org/wiki/Piso_21,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+417,Rod Wave,,,,https://en.wikipedia.org/wiki/Rod_Wave,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+418,Vance Joy,,,,https://en.wikipedia.org/wiki/Vance_Joy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+419,Bon Iver,,,,https://en.wikipedia.org/wiki/Bon_Iver,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+420,Eslabon Armado,,,,https://en.wikipedia.org/wiki/Eslabon_Armado,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+421,JENNIE,,,,https://en.wikipedia.org/wiki/JENNIE,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+422,Russ,,,,https://en.wikipedia.org/wiki/Russ,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+423,Rae Sremmurd,,,,https://en.wikipedia.org/wiki/Rae_Sremmurd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+424,Jess Glynne,,,,https://en.wikipedia.org/wiki/Jess_Glynne,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+425,The Smiths,,,,https://en.wikipedia.org/wiki/The_Smiths,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+426,Eagles,,,,https://en.wikipedia.org/wiki/Eagles,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
+427,The Police,,,,https://en.wikipedia.org/wiki/The_Police,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+428,Phil Collins,,,,https://en.wikipedia.org/wiki/Phil_Collins,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+429,The Strokes,,,,https://en.wikipedia.org/wiki/The_Strokes,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+430,Atif Aslam,,,,https://en.wikipedia.org/wiki/Atif_Aslam,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+431,Ovy On The Drums,,,,https://en.wikipedia.org/wiki/Ovy_On_The_Drums,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+432,Olivia Dean,,,,https://en.wikipedia.org/wiki/Olivia_Dean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+433,Dire Straits,,,,https://en.wikipedia.org/wiki/Dire_Straits,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+434,NewJeans,,,,https://en.wikipedia.org/wiki/NewJeans,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+435,Avenged Sevenfold,,,,https://en.wikipedia.org/wiki/Avenged_Sevenfold,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+436,Ricardo Arjona,,,,https://en.wikipedia.org/wiki/Ricardo_Arjona,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+437,Los Ángeles Azules,,,,https://en.wikipedia.org/wiki/Los_%C3%81ngeles_Azules,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+438,Rex Orange County,,,,https://en.wikipedia.org/wiki/Rex_Orange_County,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+439,ScHoolboy Q,,,,https://en.wikipedia.org/wiki/ScHoolboy_Q,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+440,6LACK,,,,https://en.wikipedia.org/wiki/6LACK,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+441,Disclosure,,,,https://en.wikipedia.org/wiki/Disclosure,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+442,Brytiago,,,,https://en.wikipedia.org/wiki/Brytiago,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+443,Alesso,,,,https://en.wikipedia.org/wiki/Alesso,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+444,RAF Camora,,,,https://en.wikipedia.org/wiki/RAF_Camora,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+445,Nelly,,,,https://en.wikipedia.org/wiki/Nelly,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+446,Mumford & Sons,,,,https://en.wikipedia.org/wiki/Mumford_%26_Sons,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+447,Kumaar,,,,https://en.wikipedia.org/wiki/Kumaar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+448,Pearl Jam,,,,https://en.wikipedia.org/wiki/Pearl_Jam,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+449,Zion,,,,https://en.wikipedia.org/wiki/Zion,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+450,Ryan Castro,,,,https://en.wikipedia.org/wiki/Ryan_Castro,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+451,Nelly Furtado,,,,https://en.wikipedia.org/wiki/Nelly_Furtado,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+452,Wesley Safadão,,,,https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+453,Disturbed,,,,https://en.wikipedia.org/wiki/Disturbed,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+454,H.E.R.,,,,https://en.wikipedia.org/wiki/H.E.R.,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+455,Rita Ora,,,,https://en.wikipedia.org/wiki/Rita_Ora,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+456,Kevin Gates,,,,https://en.wikipedia.org/wiki/Kevin_Gates,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+457,beabadoobee,,,,https://en.wikipedia.org/wiki/Beabadoobee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+458,Karan Aujla,,,,https://en.wikipedia.org/wiki/Karan_Aujla,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+459,Céline Dion,,,,https://en.wikipedia.org/wiki/C%C3%A9line_Dion,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+460,Bryan Adams,,,,https://en.wikipedia.org/wiki/Bryan_Adams,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+461,ENHYPEN,,,,https://en.wikipedia.org/wiki/ENHYPEN,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+462,Dominic Fike,,,,https://en.wikipedia.org/wiki/Dominic_Fike,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+463,Ana Castela,,,,https://en.wikipedia.org/wiki/Ana_Castela,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+464,LANY,,,,https://en.wikipedia.org/wiki/LANY,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+465,Johnny Cash,,,,https://en.wikipedia.org/wiki/Johnny_Cash,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+466,B.o.B,,,,https://en.wikipedia.org/wiki/B.o.B,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+467,Jason Aldean,,,,https://en.wikipedia.org/wiki/Jason_Aldean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+468,Luan Santana,,,,https://en.wikipedia.org/wiki/Luan_Santana,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+469,KHEA,,,,https://en.wikipedia.org/wiki/Khea,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+470,Maiara & Maraisa,,,,https://en.wikipedia.org/wiki/Maiara_%26_Maraisa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+471,Mc IG,,,,https://en.wikipedia.org/wiki/MC_IG,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+472,Tiago PZK,,,,https://en.wikipedia.org/wiki/Tiago_PZK,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+473,Tom Odell,,,,https://en.wikipedia.org/wiki/Tom_Odell,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+474,Macklemore & Ryan Lewis,,,,https://en.wikipedia.org/wiki/Macklemore_%26_Ryan_Lewis,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+475,Thomas Rhett,,,,https://en.wikipedia.org/wiki/Thomas_Rhett,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+476,MØ,,,,https://en.wikipedia.org/wiki/M%C3%98,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+477,Five Finger Death Punch,,,,https://en.wikipedia.org/wiki/Five_Finger_Death_Punch,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+478,Kane Brown,,,,https://en.wikipedia.org/wiki/Kane_Brown,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+479,Laufey,,,,https://en.wikipedia.org/wiki/Laufey,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+480,Grupo Menos É Mais,,,,https://en.wikipedia.org/wiki/Grupo_Menos_%C3%A9_Mais,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+481,Nicki Nicole,,,,https://en.wikipedia.org/wiki/Nicki_Nicole,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+482,Moneybagg Yo,,,,https://en.wikipedia.org/wiki/Moneybagg_Yo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+483,Magenta,,,,https://en.wikipedia.org/wiki/Magenta,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
+484,Ryan Lewis,,,,https://en.wikipedia.org/wiki/Ryan_Lewis,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+485,Morad,,,,https://en.wikipedia.org/wiki/Morad,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
+486,Calum Scott,,,,https://en.wikipedia.org/wiki/Calum_Scott,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+487,TOMORROW X TOGETHER,,,,https://en.wikipedia.org/wiki/Tomorrow_X_Together,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+488,Grupo Marca Registrada,,,,https://en.wikipedia.org/wiki/Grupo_Marca_Registrada,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+489,benny blanco,,,,https://en.wikipedia.org/wiki/Benny_blanco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+490,JID,,,,https://en.wikipedia.org/wiki/JID,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+491,YNW Melly,,,,https://en.wikipedia.org/wiki/YNW_Melly,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+493,Los Temerarios,,,,https://en.wikipedia.org/wiki/Los_Temerarios,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+492,Juan Gabriel,,,,https://en.wikipedia.org/wiki/Juan_Gabriel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+494,Jason Mraz,,,,https://en.wikipedia.org/wiki/Jason_Mraz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+495,The Cure,,,,https://en.wikipedia.org/wiki/The_Cure,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+496,The Marías,,,,https://en.wikipedia.org/wiki/The_Mar%C3%ADas,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+497,Limp Bizkit,,,,https://en.wikipedia.org/wiki/Limp_Bizkit,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+498,Korn,,,,https://en.wikipedia.org/wiki/Korn,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+499,Omar Courtz,,,,https://en.wikipedia.org/wiki/Omar_Courtz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
