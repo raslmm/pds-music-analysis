@@ -1,501 +1,501 @@
 Artist ID,Artist Name,Matched Origin,Latitude,Longitude,Artist Wikipedia Page,Origin Location Page,Uncertain or Missing,Match Confidence,Match Status,Review Note
 0,Drake,,,,https://en.wikipedia.org/wiki/Drake,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-1,Taylor Swift,,,,https://en.wikipedia.org/wiki/Taylor_Swift,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-2,Bad Bunny,,,,https://en.wikipedia.org/wiki/Bad_Bunny,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-3,The Weeknd,,,,https://en.wikipedia.org/wiki/The_Weeknd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-4,Justin Bieber,,,,https://en.wikipedia.org/wiki/Justin_Bieber,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-5,Ariana Grande,,,,https://en.wikipedia.org/wiki/Ariana_Grande,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-6,Travis Scott,,,,https://en.wikipedia.org/wiki/Travis_Scott,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-7,Kanye West,,,,https://en.wikipedia.org/wiki/Kanye_West,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-8,Ed Sheeran,,,,https://en.wikipedia.org/wiki/Ed_Sheeran,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-9,Eminem,,,,https://en.wikipedia.org/wiki/Eminem,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-10,Rihanna,,,,https://en.wikipedia.org/wiki/Rihanna,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-11,Billie Eilish,,,,https://en.wikipedia.org/wiki/Billie_Eilish,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-12,Bruno Mars,,,,https://en.wikipedia.org/wiki/Bruno_Mars,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-13,Kendrick Lamar,,,,https://en.wikipedia.org/wiki/Kendrick_Lamar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-14,Post Malone,,,,https://en.wikipedia.org/wiki/Post_Malone,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-15,J Balvin,,,,https://en.wikipedia.org/wiki/J_Balvin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+1,Taylor Swift,"West Reading, Pennsylvania",40.33417,-75.94667,https://en.wikipedia.org/wiki/Taylor_Swift,https://en.wikipedia.org/wiki/West_Reading%2C_Pennsylvania,False,high,matched,
+2,Bad Bunny,"Bayamón, Puerto Rico",18.38,-66.16333,https://en.wikipedia.org/wiki/Bad_Bunny,https://en.wikipedia.org/wiki/Bayam%C3%B3n%2C_Puerto_Rico,False,high,matched,
+3,The Weeknd,Metropolitan Toronto,43.7072,-79.3805,https://en.wikipedia.org/wiki/The_Weeknd,https://en.wikipedia.org/wiki/Metropolitan_Toronto,False,high,matched,
+4,Justin Bieber,"London, Ontario",42.985,-81.24528,https://en.wikipedia.org/wiki/Justin_Bieber,https://en.wikipedia.org/wiki/London%2C_Ontario,False,high,matched,
+5,Ariana Grande,"Boca Raton, Florida",26.37778,-80.11389,https://en.wikipedia.org/wiki/Ariana_Grande,https://en.wikipedia.org/wiki/Boca_Raton%2C_Florida,False,high,matched,
+6,Travis Scott,Houston,29.75667,-95.36528,https://en.wikipedia.org/wiki/Travis_Scott,https://en.wikipedia.org/wiki/Houston,False,high,matched,
+7,Kanye West,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Kanye_West,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+8,Ed Sheeran,"Halifax, West Yorkshire",53.725,-1.863,https://en.wikipedia.org/wiki/Ed_Sheeran,https://en.wikipedia.org/wiki/Halifax%2C_West_Yorkshire,False,high,matched,
+9,Eminem,"St. Joseph, Missouri",39.75806,-94.83667,https://en.wikipedia.org/wiki/Eminem,https://en.wikipedia.org/wiki/St._Joseph%2C_Missouri,False,high,matched,
+10,Rihanna,"Saint Michael, Barbados",13.11806,-59.60306,https://en.wikipedia.org/wiki/Rihanna,https://en.wikipedia.org/wiki/Saint_Michael%2C_Barbados,False,high,matched,
+11,Billie Eilish,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Billie_Eilish,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+12,Bruno Mars,Honolulu,21.3,-157.85,https://en.wikipedia.org/wiki/Bruno_Mars,https://en.wikipedia.org/wiki/Honolulu,False,high,matched,
+13,Kendrick Lamar,"Compton, California",33.89667,-118.225,https://en.wikipedia.org/wiki/Kendrick_Lamar,https://en.wikipedia.org/wiki/Compton%2C_California,False,high,matched,
+14,Post Malone,"Syracuse, New York",43.04694,-76.14444,https://en.wikipedia.org/wiki/Post_Malone,https://en.wikipedia.org/wiki/Syracuse%2C_New_York,False,high,matched,
+15,J Balvin,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/J_Balvin,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
 16,Future,,,,https://en.wikipedia.org/wiki/Future,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-17,BTS,,,,https://en.wikipedia.org/wiki/BTS,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-18,Ozuna,,,,https://en.wikipedia.org/wiki/Ozuna,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+17,BTS,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/BTS,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+18,Ozuna,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Ozuna,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
 19,Coldplay,,,,https://en.wikipedia.org/wiki/Coldplay,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-20,Juice WRLD,,,,https://en.wikipedia.org/wiki/Juice_WRLD,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-21,Chris Brown,,,,https://en.wikipedia.org/wiki/Chris_Brown,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-22,Nicki Minaj,,,,https://en.wikipedia.org/wiki/Nicki_Minaj,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-23,Lana Del Rey,,,,https://en.wikipedia.org/wiki/Lana_Del_Rey,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-24,David Guetta,,,,https://en.wikipedia.org/wiki/David_Guetta,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-25,Dua Lipa,,,,https://en.wikipedia.org/wiki/Dua_Lipa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-26,Daddy Yankee,,,,https://en.wikipedia.org/wiki/Daddy_Yankee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-27,Rauw Alejandro,,,,https://en.wikipedia.org/wiki/Rauw_Alejandro,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-28,Anuel AA,,,,https://en.wikipedia.org/wiki/Anuel_AA,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-29,XXXTENTACION,,,,https://en.wikipedia.org/wiki/XXXTENTACION,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-30,Imagine Dragons,,,,https://en.wikipedia.org/wiki/Imagine_Dragons,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-31,Lil Wayne,,,,https://en.wikipedia.org/wiki/Lil_Wayne,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-32,21 Savage,,,,https://en.wikipedia.org/wiki/21_Savage,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-33,SZA,,,,https://en.wikipedia.org/wiki/SZA,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-34,Arijit Singh,,,,https://en.wikipedia.org/wiki/Arijit_Singh,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+20,Juice WRLD,Chicago,41.88194,-87.62778,https://en.wikipedia.org/wiki/Juice_WRLD,https://en.wikipedia.org/wiki/Chicago,False,high,matched,
+21,Chris Brown,"Tappahannock, Virginia",37.92222,-76.86306,https://en.wikipedia.org/wiki/Chris_Brown,https://en.wikipedia.org/wiki/Tappahannock%2C_Virginia,False,high,matched,
+22,Nicki Minaj,Port of Spain,10.667,-61.517,https://en.wikipedia.org/wiki/Nicki_Minaj,https://en.wikipedia.org/wiki/Port_of_Spain,False,high,matched,
+23,Lana Del Rey,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Lana_Del_Rey,https://en.wikipedia.org/wiki/New_York_City%2C_U.S.,False,high,matched,
+24,David Guetta,Paris,48.8567,2.3522,https://en.wikipedia.org/wiki/David_Guetta,https://en.wikipedia.org/wiki/Paris,False,high,matched,
+25,Dua Lipa,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Dua_Lipa,https://en.wikipedia.org/wiki/London,False,high,matched,
+26,Daddy Yankee,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Daddy_Yankee,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
+27,Rauw Alejandro,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Rauw_Alejandro,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
+28,Anuel AA,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Anuel_AA,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,False,high,matched,
+29,XXXTENTACION,"Plantation, Florida",26.12444,-80.24944,https://en.wikipedia.org/wiki/XXXTENTACION,https://en.wikipedia.org/wiki/Plantation%2C_Florida,False,high,matched,
+30,Imagine Dragons,Las Vegas,36.16917,-115.14056,https://en.wikipedia.org/wiki/Imagine_Dragons,https://en.wikipedia.org/wiki/Las_Vegas,False,high,matched,
+31,Lil Wayne,New Orleans,29.9761,-90.0783,https://en.wikipedia.org/wiki/Lil_Wayne,https://en.wikipedia.org/wiki/New_Orleans,False,high,matched,
+32,21 Savage,"Plaistow, Newham",51.5243,0.0245,https://en.wikipedia.org/wiki/21_Savage,https://en.wikipedia.org/wiki/Plaistow%2C_Newham,False,high,matched,
+33,SZA,St. Louis,38.62722,-90.19778,https://en.wikipedia.org/wiki/SZA,https://en.wikipedia.org/wiki/St._Louis,False,high,matched,
+34,Arijit Singh,Jiaganj Azimganj,24.23,88.27,https://en.wikipedia.org/wiki/Arijit_Singh,https://en.wikipedia.org/wiki/Jiaganj_Azimganj,False,high,matched,
 35,Lady Gaga,,,,https://en.wikipedia.org/wiki/Lady_Gaga,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-36,KAROL G,,,,https://en.wikipedia.org/wiki/Karol_G,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-37,Lil Baby,,,,https://en.wikipedia.org/wiki/Lil_Baby,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-38,Maroon 5,,,,https://en.wikipedia.org/wiki/Maroon_5,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+36,KAROL G,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Karol_G,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
+37,Lil Baby,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Lil_Baby,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+38,Maroon 5,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Maroon_5,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
 39,Khalid,,,,https://en.wikipedia.org/wiki/Khalid,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-40,Beyoncé,,,,https://en.wikipedia.org/wiki/Beyonc%C3%A9,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-41,Maluma,,,,https://en.wikipedia.org/wiki/Maluma,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-42,Feid,,,,https://en.wikipedia.org/wiki/Feid,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-43,Calvin Harris,,,,https://en.wikipedia.org/wiki/Calvin_Harris,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-44,Myke Towers,,,,https://en.wikipedia.org/wiki/Myke_Towers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-45,Linkin Park,,,,https://en.wikipedia.org/wiki/Linkin_Park,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-46,Peso Pluma,,,,https://en.wikipedia.org/wiki/Peso_Pluma,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-47,J. Cole,,,,https://en.wikipedia.org/wiki/J._Cole,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-48,Lil Uzi Vert,,,,https://en.wikipedia.org/wiki/Lil_Uzi_Vert,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-49,Sia,,,,https://en.wikipedia.org/wiki/Sia,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-50,Doja Cat,,,,https://en.wikipedia.org/wiki/Doja_Cat,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-51,Shakira,,,,https://en.wikipedia.org/wiki/Shakira,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-52,Morgan Wallen,,,,https://en.wikipedia.org/wiki/Morgan_Wallen,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-53,Young Thug,,,,https://en.wikipedia.org/wiki/Young_Thug,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-54,Farruko,,,,https://en.wikipedia.org/wiki/Farruko,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-55,Shawn Mendes,,,,https://en.wikipedia.org/wiki/Shawn_Mendes,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-56,Harry Styles,,,,https://en.wikipedia.org/wiki/Harry_Styles,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+40,Beyoncé,Houston,29.75667,-95.36528,https://en.wikipedia.org/wiki/Beyonc%C3%A9,https://en.wikipedia.org/wiki/Houston,False,high,matched,
+41,Maluma,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Maluma,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
+42,Feid,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Feid,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
+43,Calvin Harris,Dumfries,55.07,-3.603,https://en.wikipedia.org/wiki/Calvin_Harris,https://en.wikipedia.org/wiki/Dumfries,False,high,matched,
+44,Myke Towers,"Río Piedras, Puerto Rico",18.39556,-66.04583,https://en.wikipedia.org/wiki/Myke_Towers,https://en.wikipedia.org/wiki/R%C3%ADo_Piedras%2C_Puerto_Rico,False,high,matched,
+45,Linkin Park,"Agoura Hills, California",34.15333,-118.76167,https://en.wikipedia.org/wiki/Linkin_Park,https://en.wikipedia.org/wiki/Agoura_Hills%2C_California,False,high,matched,
+46,Peso Pluma,Zapopan,20.717,-103.4,https://en.wikipedia.org/wiki/Peso_Pluma,https://en.wikipedia.org/wiki/Zapopan,False,high,matched,
+47,J. Cole,Frankfurt,50.11056,8.68222,https://en.wikipedia.org/wiki/J._Cole,https://en.wikipedia.org/wiki/Frankfurt,False,high,matched,
+48,Lil Uzi Vert,Philadelphia,39.9528,-75.1636,https://en.wikipedia.org/wiki/Lil_Uzi_Vert,https://en.wikipedia.org/wiki/Philadelphia,False,high,matched,
+49,Sia,Adelaide,-34.9275,138.6,https://en.wikipedia.org/wiki/Sia,https://en.wikipedia.org/wiki/Adelaide,False,high,matched,
+50,Doja Cat,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Doja_Cat,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+51,Shakira,Barranquilla,10.98333,-74.80194,https://en.wikipedia.org/wiki/Shakira,https://en.wikipedia.org/wiki/Barranquilla,False,high,matched,
+52,Morgan Wallen,"Sneedville, Tennessee",36.53194,-83.21417,https://en.wikipedia.org/wiki/Morgan_Wallen,https://en.wikipedia.org/wiki/Sneedville%2C_Tennessee,False,high,matched,
+53,Young Thug,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Young_Thug,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+54,Farruko,"Bayamón, Puerto Rico",18.38,-66.16333,https://en.wikipedia.org/wiki/Farruko,https://en.wikipedia.org/wiki/Bayam%C3%B3n%2C_Puerto_Rico,False,high,matched,
+55,Shawn Mendes,Toronto,43.6525,-79.38167,https://en.wikipedia.org/wiki/Shawn_Mendes,https://en.wikipedia.org/wiki/Toronto,False,high,matched,
+56,Harry Styles,Harry Styles,,,https://en.wikipedia.org/wiki/Harry_Styles,https://en.wikipedia.org/wiki/Harry_Styles,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
 57,Queen,,,,https://en.wikipedia.org/wiki/Queen,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-58,Sam Smith,,,,https://en.wikipedia.org/wiki/Sam_Smith,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-59,One Direction,,,,https://en.wikipedia.org/wiki/One_Direction,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-60,Metro Boomin,,,,https://en.wikipedia.org/wiki/Metro_Boomin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-61,Olivia Rodrigo,,,,https://en.wikipedia.org/wiki/Olivia_Rodrigo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+58,Sam Smith,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Sam_Smith,https://en.wikipedia.org/wiki/London,False,high,matched,
+59,One Direction,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/One_Direction,https://en.wikipedia.org/wiki/London,False,high,matched,
+60,Metro Boomin,St. Louis,38.62722,-90.19778,https://en.wikipedia.org/wiki/Metro_Boomin,https://en.wikipedia.org/wiki/St._Louis,False,high,matched,
+61,Olivia Rodrigo,"Murrieta, California",33.56944,-117.2025,https://en.wikipedia.org/wiki/Olivia_Rodrigo,https://en.wikipedia.org/wiki/Murrieta%2C_California,False,high,matched,
 62,Adele,,,,https://en.wikipedia.org/wiki/Adele,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
 63,Pritam,,,,https://en.wikipedia.org/wiki/Pritam,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-64,Katy Perry,,,,https://en.wikipedia.org/wiki/Katy_Perry,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+64,Katy Perry,"Santa Barbara, California",34.417,-119.7,https://en.wikipedia.org/wiki/Katy_Perry,https://en.wikipedia.org/wiki/Santa_Barbara%2C_California,False,high,matched,
 65,Gunna,,,,https://en.wikipedia.org/wiki/Gunna,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-66,Arctic Monkeys,,,,https://en.wikipedia.org/wiki/Arctic_Monkeys,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-67,Fuerza Regida,,,,https://en.wikipedia.org/wiki/Fuerza_Regida,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-68,Junior H,,,,https://en.wikipedia.org/wiki/Junior_H,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-69,"Tyler, The Creator",,,,"https://en.wikipedia.org/wiki/Tyler,_The_Creator",,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-70,Selena Gomez,,,,https://en.wikipedia.org/wiki/Selena_Gomez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-71,Ty Dolla $ign,,,,https://en.wikipedia.org/wiki/Ty_Dolla_$ign,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-72,The Beatles,,,,https://en.wikipedia.org/wiki/The_Beatles,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+66,Arctic Monkeys,Sheffield,53.38083,-1.47028,https://en.wikipedia.org/wiki/Arctic_Monkeys,https://en.wikipedia.org/wiki/Sheffield,False,high,matched,
+67,Fuerza Regida,"San Bernardino, California",34.10417,-117.29222,https://en.wikipedia.org/wiki/Fuerza_Regida,https://en.wikipedia.org/wiki/San_Bernardino%2C_California,False,high,matched,
+68,Junior H,Guanajuato,21.017,-101.267,https://en.wikipedia.org/wiki/Junior_H,https://en.wikipedia.org/wiki/Guanajuato,False,high,matched,
+69,"Tyler, The Creator","Hawthorne, California",33.91722,-118.34861,"https://en.wikipedia.org/wiki/Tyler,_The_Creator",https://en.wikipedia.org/wiki/Hawthorne%2C_California,False,high,matched,
+70,Selena Gomez,"Grand Prairie, Texas",32.71528,-96.96611,https://en.wikipedia.org/wiki/Selena_Gomez,https://en.wikipedia.org/wiki/Grand_Prairie%2C_Texas,False,high,matched,
+71,Ty Dolla $ign,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Ty_Dolla_$ign,https://en.wikipedia.org/wiki/Los_Angeles,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+72,The Beatles,Liverpool,53.4072,-2.9917,https://en.wikipedia.org/wiki/The_Beatles,https://en.wikipedia.org/wiki/Liverpool,False,high,matched,
 73,Pitbull,,,,https://en.wikipedia.org/wiki/Pitbull,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-74,Nicky Jam,,,,https://en.wikipedia.org/wiki/Nicky_Jam,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-75,Playboi Carti,,,,https://en.wikipedia.org/wiki/Playboi_Carti,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+74,Nicky Jam,"Lawrence, Massachusetts",42.70694,-71.16361,https://en.wikipedia.org/wiki/Nicky_Jam,https://en.wikipedia.org/wiki/Lawrence%2C_Massachusetts,False,high,matched,
+75,Playboi Carti,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Playboi_Carti,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
 76,Halsey,,,,https://en.wikipedia.org/wiki/Halsey,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-77,Wiz Khalifa,,,,https://en.wikipedia.org/wiki/Wiz_Khalifa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-78,Michael Jackson,,,,https://en.wikipedia.org/wiki/Michael_Jackson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-79,Sabrina Carpenter,,,,https://en.wikipedia.org/wiki/Sabrina_Carpenter,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-80,Frank Ocean,,,,https://en.wikipedia.org/wiki/Frank_Ocean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+77,Wiz Khalifa,"Minot, North Dakota",48.2376139,-101.2790056,https://en.wikipedia.org/wiki/Wiz_Khalifa,https://en.wikipedia.org/wiki/Minot%2C_North_Dakota,False,high,matched,
+78,Michael Jackson,"Gary, Indiana",41.59056,-87.34694,https://en.wikipedia.org/wiki/Michael_Jackson,https://en.wikipedia.org/wiki/Gary%2C_Indiana,False,high,matched,
+79,Sabrina Carpenter,"Quakertown, Pennsylvania",40.44056,-75.34056,https://en.wikipedia.org/wiki/Sabrina_Carpenter,https://en.wikipedia.org/wiki/Quakertown%2C_Pennsylvania,False,high,matched,
+80,Frank Ocean,"Long Beach, California",33.76833,-118.19556,https://en.wikipedia.org/wiki/Frank_Ocean,https://en.wikipedia.org/wiki/Long_Beach%2C_California,False,high,matched,
 81,Die drei ???,,,,https://en.wikipedia.org/wiki/Die_drei_%3F%3F%3F,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
 82,JAŸ-Z,,,,https://en.wikipedia.org/wiki/JA%C5%B8-Z,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-83,A$AP Rocky,,,,https://en.wikipedia.org/wiki/A$AP_Rocky,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-84,Miley Cyrus,,,,https://en.wikipedia.org/wiki/Miley_Cyrus,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-85,The Chainsmokers,,,,https://en.wikipedia.org/wiki/The_Chainsmokers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-86,Marshmello,,,,https://en.wikipedia.org/wiki/Marshmello,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-87,Cardi B,,,,https://en.wikipedia.org/wiki/Cardi_B,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-88,Twenty One Pilots,,,,https://en.wikipedia.org/wiki/Twenty_One_Pilots,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+83,A$AP Rocky,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/A$AP_Rocky,https://en.wikipedia.org/wiki/New_York_City,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+84,Miley Cyrus,"Franklin, Tennessee",35.92917,-86.8575,https://en.wikipedia.org/wiki/Miley_Cyrus,https://en.wikipedia.org/wiki/Franklin%2C_Tennessee,False,high,matched,
+85,The Chainsmokers,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/The_Chainsmokers,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+86,Marshmello,Philadelphia,39.9528,-75.1636,https://en.wikipedia.org/wiki/Marshmello,https://en.wikipedia.org/wiki/Philadelphia,False,high,matched,
+87,Cardi B,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Cardi_B,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+88,Twenty One Pilots,"Columbus, Ohio",39.96222,-83.00056,https://en.wikipedia.org/wiki/Twenty_One_Pilots,https://en.wikipedia.org/wiki/Columbus%2C_Ohio,False,high,matched,
 89,Disney,,,,https://en.wikipedia.org/wiki/Disney,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
-90,Arcángel,,,,https://en.wikipedia.org/wiki/Arc%C3%A1ngel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+90,Arcángel,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Arc%C3%A1ngel,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
 91,Red Hot Chili Peppers,,,,https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-92,Camila Cabello,,,,https://en.wikipedia.org/wiki/Camila_Cabello,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-93,$uicideboy$,,,,https://en.wikipedia.org/wiki/$uicideboy$,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-94,OneRepublic,,,,https://en.wikipedia.org/wiki/OneRepublic,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-95,Avicii,,,,https://en.wikipedia.org/wiki/Avicii,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-96,Diplo,,,,https://en.wikipedia.org/wiki/Diplo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-97,Snoop Dogg,,,,https://en.wikipedia.org/wiki/Snoop_Dogg,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-98,Romeo Santos,,,,https://en.wikipedia.org/wiki/Romeo_Santos,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+92,Camila Cabello,Cojímar,23.135,-82.394,https://en.wikipedia.org/wiki/Camila_Cabello,https://en.wikipedia.org/wiki/Coj%C3%ADmar,False,high,matched,
+93,$uicideboy$,New Orleans,29.9761,-90.0783,https://en.wikipedia.org/wiki/$uicideboy$,https://en.wikipedia.org/wiki/New_Orleans%2C_Louisiana,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+94,OneRepublic,"Colorado Springs, Colorado",38.85778,-104.60583,https://en.wikipedia.org/wiki/OneRepublic,https://en.wikipedia.org/wiki/Colorado_Springs%2C_Colorado,False,high,matched,
+95,Avicii,Stockholm,59.32944,18.06861,https://en.wikipedia.org/wiki/Avicii,https://en.wikipedia.org/wiki/Stockholm,False,high,matched,
+96,Diplo,"Tupelo, Mississippi",34.25972,-88.72583,https://en.wikipedia.org/wiki/Diplo,https://en.wikipedia.org/wiki/Tupelo%2C_Mississippi,False,high,matched,
+97,Snoop Dogg,"Long Beach, California",33.76833,-118.19556,https://en.wikipedia.org/wiki/Snoop_Dogg,https://en.wikipedia.org/wiki/Long_Beach%2C_California,False,high,matched,
+98,Romeo Santos,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Romeo_Santos,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
 99,50 Cent,,,,https://en.wikipedia.org/wiki/50_Cent,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-100,Natanael Cano,,,,https://en.wikipedia.org/wiki/Natanael_Cano,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-101,YoungBoy Never Broke Again,,,,https://en.wikipedia.org/wiki/YoungBoy_Never_Broke_Again,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-102,Mac Miller,,,,https://en.wikipedia.org/wiki/Mac_Miller,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-103,DaBaby,,,,https://en.wikipedia.org/wiki/DaBaby,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-104,Don Toliver,,,,https://en.wikipedia.org/wiki/Don_Toliver,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-105,Zach Bryan,,,,https://en.wikipedia.org/wiki/Zach_Bryan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-106,Kygo,,,,https://en.wikipedia.org/wiki/Kygo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+100,Natanael Cano,Hermosillo,29.09889,-110.95417,https://en.wikipedia.org/wiki/Natanael_Cano,https://en.wikipedia.org/wiki/Hermosillo,False,high,matched,
+101,YoungBoy Never Broke Again,"Baton Rouge, Louisiana",30.4475,-91.17861,https://en.wikipedia.org/wiki/YoungBoy_Never_Broke_Again,https://en.wikipedia.org/wiki/Baton_Rouge%2C_Louisiana,False,high,matched,
+102,Mac Miller,Pittsburgh,40.43972,-79.97639,https://en.wikipedia.org/wiki/Mac_Miller,https://en.wikipedia.org/wiki/Pittsburgh,False,high,matched,
+103,DaBaby,DaBaby,,,https://en.wikipedia.org/wiki/DaBaby,https://en.wikipedia.org/wiki/DaBaby,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+104,Don Toliver,Houston,29.75667,-95.36528,https://en.wikipedia.org/wiki/Don_Toliver,https://en.wikipedia.org/wiki/Houston,False,high,matched,
+105,Zach Bryan,Yokosuka,35.2815,139.672083,https://en.wikipedia.org/wiki/Zach_Bryan,https://en.wikipedia.org/wiki/Yokosuka,False,high,matched,
+106,Kygo,Singapore,1.283,103.833,https://en.wikipedia.org/wiki/Kygo,https://en.wikipedia.org/wiki/Singapore,False,high,matched,
 107,Sech,,,,https://en.wikipedia.org/wiki/Sech,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-108,The Neighbourhood,,,,https://en.wikipedia.org/wiki/The_Neighbourhood,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-109,Quavo,,,,https://en.wikipedia.org/wiki/Quavo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-110,Henrique & Juliano,,,,https://en.wikipedia.org/wiki/Henrique_%26_Juliano,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-111,Luke Combs,,,,https://en.wikipedia.org/wiki/Luke_Combs,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-112,Elton John,,,,https://en.wikipedia.org/wiki/Elton_John,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-113,Manuel Turizo,,,,https://en.wikipedia.org/wiki/Manuel_Turizo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-114,Trippie Redd,,,,https://en.wikipedia.org/wiki/Trippie_Redd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-115,Tate McRae,,,,https://en.wikipedia.org/wiki/Tate_McRae,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-116,Lil Peep,,,,https://en.wikipedia.org/wiki/Lil_Peep,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-117,Metallica,,,,https://en.wikipedia.org/wiki/Metallica,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-118,Don Omar,,,,https://en.wikipedia.org/wiki/Don_Omar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+108,The Neighbourhood,"Newbury Park, California",34.18417,-118.90972,https://en.wikipedia.org/wiki/The_Neighbourhood,https://en.wikipedia.org/wiki/Newbury_Park%2C_California,False,high,matched,
+109,Quavo,"Athens, Georgia",33.95,-83.383,https://en.wikipedia.org/wiki/Quavo,https://en.wikipedia.org/wiki/Athens%2C_Georgia,False,high,matched,
+110,Henrique & Juliano,Palmeirópolis,-13.067,-48.367,https://en.wikipedia.org/wiki/Henrique_%26_Juliano,https://en.wikipedia.org/wiki/Palmeir%C3%B3polis,False,high,matched,
+111,Luke Combs,"Huntersville, North Carolina",35.40611,-80.87167,https://en.wikipedia.org/wiki/Luke_Combs,https://en.wikipedia.org/wiki/Huntersville%2C_North_Carolina,False,high,matched,
+112,Elton John,Pinner,51.5932,-0.3894,https://en.wikipedia.org/wiki/Elton_John,https://en.wikipedia.org/wiki/Pinner,False,high,matched,
+113,Manuel Turizo,Montería,8.75,-75.883,https://en.wikipedia.org/wiki/Manuel_Turizo,https://en.wikipedia.org/wiki/Monter%C3%ADa,False,high,matched,
+114,Trippie Redd,"Canton, Ohio",40.79861,-81.375,https://en.wikipedia.org/wiki/Trippie_Redd,https://en.wikipedia.org/wiki/Canton%2C_Ohio,False,high,matched,
+115,Tate McRae,Calgary,51.0475,-114.0625,https://en.wikipedia.org/wiki/Tate_McRae,https://en.wikipedia.org/wiki/Calgary,False,high,matched,
+116,Lil Peep,"Allentown, Pennsylvania",40.60167,-75.47722,https://en.wikipedia.org/wiki/Lil_Peep,https://en.wikipedia.org/wiki/Allentown%2C_Pennsylvania,False,high,matched,
+117,Metallica,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Metallica,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+118,Don Omar,"Santurce, San Juan, Puerto Rico",18.44667,-66.06889,https://en.wikipedia.org/wiki/Don_Omar,https://en.wikipedia.org/wiki/Santurce%2C_San_Juan%2C_Puerto_Rico,False,high,matched,
 119,USHER,,,,https://en.wikipedia.org/wiki/USHER,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-120,Charlie Puth,,,,https://en.wikipedia.org/wiki/Charlie_Puth,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-121,Justin Timberlake,,,,https://en.wikipedia.org/wiki/Justin_Timberlake,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-122,Tiësto,,,,https://en.wikipedia.org/wiki/Ti%C3%ABsto,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-123,Sean Paul,,,,https://en.wikipedia.org/wiki/Sean_Paul,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-124,Tyga,,,,https://en.wikipedia.org/wiki/Tyga,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-125,Kali Uchis,,,,https://en.wikipedia.org/wiki/Kali_Uchis,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-126,Kodak Black,,,,https://en.wikipedia.org/wiki/Kodak_Black,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-127,Jason Derulo,,,,https://en.wikipedia.org/wiki/Jason_Derulo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-128,BLACKPINK,,,,https://en.wikipedia.org/wiki/BLACKPINK,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-129,JHAYCO,,,,https://en.wikipedia.org/wiki/Jhayco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+120,Charlie Puth,"Rumson, New Jersey",40.37194,-73.99944,https://en.wikipedia.org/wiki/Charlie_Puth,https://en.wikipedia.org/wiki/Rumson%2C_New_Jersey,False,high,matched,
+121,Justin Timberlake,"Memphis, Tennessee",35.14611,-90.05194,https://en.wikipedia.org/wiki/Justin_Timberlake,https://en.wikipedia.org/wiki/Memphis%2C_Tennessee,False,high,matched,
+122,Tiësto,Breda,51.58889,4.77583,https://en.wikipedia.org/wiki/Ti%C3%ABsto,https://en.wikipedia.org/wiki/Breda,False,high,matched,
+123,Sean Paul,"Kingston, Jamaica",17.97139,-76.79306,https://en.wikipedia.org/wiki/Sean_Paul,https://en.wikipedia.org/wiki/Kingston%2C_Jamaica,False,high,matched,
+124,Tyga,"Compton, California",33.89667,-118.225,https://en.wikipedia.org/wiki/Tyga,https://en.wikipedia.org/wiki/Compton%2C_California,False,high,matched,
+125,Kali Uchis,"Alexandria, Virginia",38.82028,-77.05028,https://en.wikipedia.org/wiki/Kali_Uchis,https://en.wikipedia.org/wiki/Alexandria%2C_Virginia,False,high,matched,
+126,Kodak Black,"Pompano Beach, Florida",26.23472,-80.12556,https://en.wikipedia.org/wiki/Kodak_Black,https://en.wikipedia.org/wiki/Pompano_Beach%2C_Florida,False,high,matched,
+127,Jason Derulo,"Miramar, Florida",25.97667,-80.32306,https://en.wikipedia.org/wiki/Jason_Derulo,https://en.wikipedia.org/wiki/Miramar%2C_Florida,False,high,matched,
+128,BLACKPINK,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/BLACKPINK,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+129,JHAYCO,"Río Piedras, Puerto Rico",18.39556,-66.04583,https://en.wikipedia.org/wiki/Jhayco,https://en.wikipedia.org/wiki/R%C3%ADo_Piedras%2C_Puerto_Rico,False,high,matched,
 130,Bebe Rexha,,,,https://en.wikipedia.org/wiki/Bebe_Rexha,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
 131,Daft Punk,,,,https://en.wikipedia.org/wiki/Daft_Punk,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-132,Luis Miguel,,,,https://en.wikipedia.org/wiki/Luis_Miguel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-133,Demi Lovato,,,,https://en.wikipedia.org/wiki/Demi_Lovato,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-134,Akon,,,,https://en.wikipedia.org/wiki/Akon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-135,AC/DC,,,,https://en.wikipedia.org/wiki/AC/DC,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-136,Sebastian Yatra,,,,https://en.wikipedia.org/wiki/Sebastian_Yatra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-137,Carín León,,,,https://en.wikipedia.org/wiki/Car%C3%ADn_Le%C3%B3n,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-138,Alan Walker,,,,https://en.wikipedia.org/wiki/Alan_Walker,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-139,A Boogie Wit da Hoodie,,,,https://en.wikipedia.org/wiki/A_Boogie_Wit_da_Hoodie,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+132,Luis Miguel,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Luis_Miguel,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
+133,Demi Lovato,"Albuquerque, New Mexico",35.08444,-106.65167,https://en.wikipedia.org/wiki/Demi_Lovato,https://en.wikipedia.org/wiki/Albuquerque%2C_New_Mexico,False,high,matched,
+134,Akon,St. Louis,38.62722,-90.19778,https://en.wikipedia.org/wiki/Akon,https://en.wikipedia.org/wiki/St._Louis,False,high,matched,
+135,AC/DC,Sydney,-33.86778,151.21,https://en.wikipedia.org/wiki/AC/DC,https://en.wikipedia.org/wiki/Sydney,False,high,matched,
+136,Sebastian Yatra,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Sebastian_Yatra,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
+137,Carín León,Hermosillo,29.09889,-110.95417,https://en.wikipedia.org/wiki/Car%C3%ADn_Le%C3%B3n,https://en.wikipedia.org/wiki/Hermosillo,False,high,matched,
+138,Alan Walker,Northampton,52.2303748,-0.8937527,https://en.wikipedia.org/wiki/Alan_Walker,https://en.wikipedia.org/wiki/Northampton,False,high,matched,
+139,A Boogie Wit da Hoodie,The Bronx,40.83722,-73.88611,https://en.wikipedia.org/wiki/A_Boogie_Wit_da_Hoodie,https://en.wikipedia.org/wiki/The_Bronx,False,high,matched,
 140,Fleetwood Mac,,,,https://en.wikipedia.org/wiki/Fleetwood_Mac,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-141,Hozier,,,,https://en.wikipedia.org/wiki/Hozier,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-142,Ellie Goulding,,,,https://en.wikipedia.org/wiki/Ellie_Goulding,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-143,Radiohead,,,,https://en.wikipedia.org/wiki/Radiohead,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-144,Big Sean,,,,https://en.wikipedia.org/wiki/Big_Sean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-145,Flo Rida,,,,https://en.wikipedia.org/wiki/Flo_Rida,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-146,P!nk,,,,https://en.wikipedia.org/wiki/P!nk,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+141,Hozier,"Newcastle, County Wicklow",53.0692,-6.0621,https://en.wikipedia.org/wiki/Hozier,https://en.wikipedia.org/wiki/Newcastle%2C_County_Wicklow,False,high,matched,
+142,Ellie Goulding,Hereford,52.056,-2.716,https://en.wikipedia.org/wiki/Ellie_Goulding,https://en.wikipedia.org/wiki/Hereford,False,high,matched,
+143,Radiohead,Abingdon-on-Thames,51.67167,-1.27833,https://en.wikipedia.org/wiki/Radiohead,https://en.wikipedia.org/wiki/Abingdon-on-Thames,False,high,matched,
+144,Big Sean,"Santa Monica, California",34.02194,-118.48139,https://en.wikipedia.org/wiki/Big_Sean,https://en.wikipedia.org/wiki/Santa_Monica%2C_California,False,high,matched,
+145,Flo Rida,"Miami Gardens, Florida",25.94194,-80.25639,https://en.wikipedia.org/wiki/Flo_Rida,https://en.wikipedia.org/wiki/Miami_Gardens%2C_Florida,False,high,matched,
+146,P!nk,"Doylestown, Pennsylvania",40.31278,-75.12889,https://en.wikipedia.org/wiki/P!nk,https://en.wikipedia.org/wiki/Doylestown%2C_Pennsylvania,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
 147,Nirvana,,,,https://en.wikipedia.org/wiki/Nirvana,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-148,Pop Smoke,,,,https://en.wikipedia.org/wiki/Pop_Smoke,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-149,Britney Spears,,,,https://en.wikipedia.org/wiki/Britney_Spears,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-150,James Arthur,,,,https://en.wikipedia.org/wiki/James_Arthur,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-151,Tory Lanez,,,,https://en.wikipedia.org/wiki/Tory_Lanez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-152,Pharrell Williams,,,,https://en.wikipedia.org/wiki/Pharrell_Williams,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-153,DJ Snake,,,,https://en.wikipedia.org/wiki/DJ_Snake,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-154,Daniel Caesar,,,,https://en.wikipedia.org/wiki/Daniel_Caesar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-155,Black Eyed Peas,,,,https://en.wikipedia.org/wiki/Black_Eyed_Peas,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-156,Swae Lee,,,,https://en.wikipedia.org/wiki/Swae_Lee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-157,Shreya Ghoshal,,,,https://en.wikipedia.org/wiki/Shreya_Ghoshal,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+148,Pop Smoke,Brooklyn,40.65,-73.95,https://en.wikipedia.org/wiki/Pop_Smoke,https://en.wikipedia.org/wiki/Brooklyn,False,high,matched,
+149,Britney Spears,"McComb, Mississippi",31.2444722,-90.4715917,https://en.wikipedia.org/wiki/Britney_Spears,https://en.wikipedia.org/wiki/McComb%2C_Mississippi,False,high,matched,
+150,James Arthur,Middlesbrough,54.57611,-1.23472,https://en.wikipedia.org/wiki/James_Arthur,https://en.wikipedia.org/wiki/Middlesbrough%2C_North_Yorkshire,False,high,matched,
+151,Tory Lanez,Brampton,43.68833,-79.76083,https://en.wikipedia.org/wiki/Tory_Lanez,https://en.wikipedia.org/wiki/Brampton,False,high,matched,
+152,Pharrell Williams,"Virginia Beach, Virginia",36.85,-75.97778,https://en.wikipedia.org/wiki/Pharrell_Williams,https://en.wikipedia.org/wiki/Virginia_Beach%2C_Virginia,False,high,matched,
+153,DJ Snake,Paris,48.8567,2.3522,https://en.wikipedia.org/wiki/DJ_Snake,https://en.wikipedia.org/wiki/Paris,False,high,matched,
+154,Daniel Caesar,"Scarborough, Ontario",43.75583,-79.23083,https://en.wikipedia.org/wiki/Daniel_Caesar,https://en.wikipedia.org/wiki/Scarborough%2C_Ontario,False,high,matched,
+155,Black Eyed Peas,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Black_Eyed_Peas,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+156,Swae Lee,"Inglewood, California",33.9575,-118.34611,https://en.wikipedia.org/wiki/Swae_Lee,https://en.wikipedia.org/wiki/Inglewood%2C_California,False,high,matched,
+157,Shreya Ghoshal,Berhampore,24.1,88.25,https://en.wikipedia.org/wiki/Shreya_Ghoshal,https://en.wikipedia.org/wiki/Berhampore,False,high,matched,
 158,Duki,,,,https://en.wikipedia.org/wiki/Duki,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-159,Bizarrap,,,,https://en.wikipedia.org/wiki/Bizarrap,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-160,Migos,,,,https://en.wikipedia.org/wiki/Migos,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-161,The Kid LAROI,,,,https://en.wikipedia.org/wiki/The_Kid_LAROI,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-162,Marília Mendonça,,,,https://en.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+159,Bizarrap,Ramos Mejía,-34.65,-58.567,https://en.wikipedia.org/wiki/Bizarrap,https://en.wikipedia.org/wiki/Ramos_Mej%C3%ADa,False,high,matched,
+160,Migos,"Lawrenceville, Georgia",33.95222,-83.99333,https://en.wikipedia.org/wiki/Migos,https://en.wikipedia.org/wiki/Lawrenceville%2C_Georgia,False,high,matched,
+161,The Kid LAROI,Sydney,-33.86778,151.21,https://en.wikipedia.org/wiki/The_Kid_LAROI,https://en.wikipedia.org/wiki/Sydney,False,high,matched,
+162,Marília Mendonça,Cristianópolis,-17.19889,-48.69806,https://en.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a,https://en.wikipedia.org/wiki/Cristian%C3%B3polis,False,high,matched,
 163,Anitta,,,,https://en.wikipedia.org/wiki/Anitta,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-164,Green Day,,,,https://en.wikipedia.org/wiki/Green_Day,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-165,Lil Durk,,,,https://en.wikipedia.org/wiki/Lil_Durk,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-166,Polo G,,,,https://en.wikipedia.org/wiki/Polo_G,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-167,A.R. Rahman,,,,https://en.wikipedia.org/wiki/A.R._Rahman,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-168,G-Eazy,,,,https://en.wikipedia.org/wiki/G-Eazy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-169,Kid Cudi,,,,https://en.wikipedia.org/wiki/Kid_Cudi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-170,Justin Quiles,,,,https://en.wikipedia.org/wiki/Justin_Quiles,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-171,Bob Marley & The Wailers,,,,https://en.wikipedia.org/wiki/Bob_Marley_%26_The_Wailers,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-172,Stray Kids,,,,https://en.wikipedia.org/wiki/Stray_Kids,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-173,Anirudh Ravichander,,,,https://en.wikipedia.org/wiki/Anirudh_Ravichander,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-174,Ne-Yo,,,,https://en.wikipedia.org/wiki/Ne-Yo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-175,Gucci Mane,,,,https://en.wikipedia.org/wiki/Gucci_Mane,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-176,ROSALÍA,,,,https://en.wikipedia.org/wiki/Rosal%C3%ADa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-177,Charli xcx,,,,https://en.wikipedia.org/wiki/Charli_xcx,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+164,Green Day,"Rodeo, California",38.03306,-122.26694,https://en.wikipedia.org/wiki/Green_Day,https://en.wikipedia.org/wiki/Rodeo%2C_California,False,high,matched,
+165,Lil Durk,Chicago,41.88194,-87.62778,https://en.wikipedia.org/wiki/Lil_Durk,https://en.wikipedia.org/wiki/Chicago,False,high,matched,
+166,Polo G,Chicago,41.88194,-87.62778,https://en.wikipedia.org/wiki/Polo_G,https://en.wikipedia.org/wiki/Chicago,False,high,matched,
+167,A.R. Rahman,Chennai,13.0825,80.275,https://en.wikipedia.org/wiki/A.R._Rahman,https://en.wikipedia.org/wiki/Madras,False,high,matched,
+168,G-Eazy,"Oakland, California",37.80444,-122.27083,https://en.wikipedia.org/wiki/G-Eazy,https://en.wikipedia.org/wiki/Oakland%2C_California,False,high,matched,
+169,Kid Cudi,Cleveland,41.4992,-81.6947,https://en.wikipedia.org/wiki/Kid_Cudi,https://en.wikipedia.org/wiki/Cleveland,False,high,matched,
+170,Justin Quiles,"Bridgeport, Connecticut",41.18639,-73.19556,https://en.wikipedia.org/wiki/Justin_Quiles,https://en.wikipedia.org/wiki/Bridgeport%2C_Connecticut,False,high,matched,
+171,Bob Marley & The Wailers,"Kingston, Jamaica",17.97139,-76.79306,https://en.wikipedia.org/wiki/Bob_Marley_%26_The_Wailers,https://en.wikipedia.org/wiki/Kingston%2C_Jamaica,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+172,Stray Kids,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/Stray_Kids,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+173,Anirudh Ravichander,Chennai,13.0825,80.275,https://en.wikipedia.org/wiki/Anirudh_Ravichander,https://en.wikipedia.org/wiki/Chennai,False,high,matched,
+174,Ne-Yo,"Camden, Arkansas",33.58444,-92.83417,https://en.wikipedia.org/wiki/Ne-Yo,https://en.wikipedia.org/wiki/Camden%2C_Arkansas,False,high,matched,
+175,Gucci Mane,"Bessemer, Alabama",33.37111,-86.97278,https://en.wikipedia.org/wiki/Gucci_Mane,https://en.wikipedia.org/wiki/Bessemer%2C_Alabama,False,high,matched,
+176,ROSALÍA,Sant Cugat del Vallès,41.467,2.083,https://en.wikipedia.org/wiki/Rosal%C3%ADa,https://en.wikipedia.org/wiki/Sant_Cugat_del_Vall%C3%A8s,False,high,matched,
+177,Charli xcx,Cambridge,52.205,0.1225,https://en.wikipedia.org/wiki/Charli_xcx,https://en.wikipedia.org/wiki/Cambridge,False,high,matched,
 178,Joji,,,,https://en.wikipedia.org/wiki/Joji,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-179,Fall Out Boy,,,,https://en.wikipedia.org/wiki/Fall_Out_Boy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-180,PARTYNEXTDOOR,,,,https://en.wikipedia.org/wiki/PARTYNEXTDOOR,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-181,Jorge & Mateus,,,,https://en.wikipedia.org/wiki/Jorge_%26_Mateus,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+179,Fall Out Boy,"Wilmette, Illinois",42.07722,-87.72361,https://en.wikipedia.org/wiki/Fall_Out_Boy,https://en.wikipedia.org/wiki/Wilmette%2C_Illinois,False,high,matched,
+180,PARTYNEXTDOOR,Mississauga,43.6,-79.65,https://en.wikipedia.org/wiki/PARTYNEXTDOOR,https://en.wikipedia.org/wiki/Mississauga,False,high,matched,
+181,Jorge & Mateus,Itumbiara,-18.41667,-49.21667,https://en.wikipedia.org/wiki/Jorge_%26_Mateus,https://en.wikipedia.org/wiki/Itumbiara,False,high,matched,
 182,Offset,,,,https://en.wikipedia.org/wiki/Offset,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-183,Panic! At The Disco,,,,https://en.wikipedia.org/wiki/Panic!_At_The_Disco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-184,Tame Impala,,,,https://en.wikipedia.org/wiki/Tame_Impala,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+183,Panic! At The Disco,Las Vegas,36.16917,-115.14056,https://en.wikipedia.org/wiki/Panic!_At_The_Disco,https://en.wikipedia.org/wiki/Las_Vegas,False,high,matched,
+184,Tame Impala,Perth,-32.0,115.9,https://en.wikipedia.org/wiki/Tame_Impala,https://en.wikipedia.org/wiki/Perth,False,high,matched,
 185,Quevedo,,,,https://en.wikipedia.org/wiki/Quevedo,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
 186,Morat,,,,https://en.wikipedia.org/wiki/Morat,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-187,Zara Larsson,,,,https://en.wikipedia.org/wiki/Zara_Larsson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-188,Tito Double P,,,,https://en.wikipedia.org/wiki/Tito_Double_P,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+187,Zara Larsson,Solna,59.35,18.0,https://en.wikipedia.org/wiki/Zara_Larsson,https://en.wikipedia.org/wiki/Solna,False,high,matched,
+188,Tito Double P,Tepic,21.50833,-104.89306,https://en.wikipedia.org/wiki/Tito_Double_P,https://en.wikipedia.org/wiki/Tepic,False,high,matched,
 189,Jul,,,,https://en.wikipedia.org/wiki/Jul,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-190,2Pac,,,,https://en.wikipedia.org/wiki/2Pac,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-191,Gorillaz,,,,https://en.wikipedia.org/wiki/Gorillaz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-192,Lewis Capaldi,,,,https://en.wikipedia.org/wiki/Lewis_Capaldi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-193,Grupo Frontera,,,,https://en.wikipedia.org/wiki/Grupo_Frontera,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+190,2Pac,Tupac Shakur,,,https://en.wikipedia.org/wiki/2Pac,https://en.wikipedia.org/wiki/2Pac,True,low,origin_page_without_coordinates,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match. Linked place page has no readable coordinates.
+191,Gorillaz,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Gorillaz,https://en.wikipedia.org/wiki/London,False,high,matched,
+192,Lewis Capaldi,Glasgow,55.86111,-4.25,https://en.wikipedia.org/wiki/Lewis_Capaldi,https://en.wikipedia.org/wiki/Glasgow,False,high,matched,
+193,Grupo Frontera,"Edinburg, Texas",26.30417,-98.16389,https://en.wikipedia.org/wiki/Grupo_Frontera,https://en.wikipedia.org/wiki/Edinburg%2C_Texas,False,high,matched,
 194,Camilo,,,,https://en.wikipedia.org/wiki/Camilo,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-195,Lenny Tavárez,,,,https://en.wikipedia.org/wiki/Lenny_Tav%C3%A1rez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-196,2 Chainz,,,,https://en.wikipedia.org/wiki/2_Chainz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+195,Lenny Tavárez,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Lenny_Tav%C3%A1rez,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
+196,2 Chainz,"College Park, Georgia",33.6175,-84.4675,https://en.wikipedia.org/wiki/2_Chainz,https://en.wikipedia.org/wiki/College_Park%2C_Georgia,False,high,matched,
 197,NF,,,,https://en.wikipedia.org/wiki/NF,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-198,Bryson Tiller,,,,https://en.wikipedia.org/wiki/Bryson_Tiller,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-199,Rels B,,,,https://en.wikipedia.org/wiki/Rels_B,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-200,Roddy Ricch,,,,https://en.wikipedia.org/wiki/Roddy_Ricch,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-201,Guns N' Roses,,,,https://en.wikipedia.org/wiki/Guns_N%27_Roses,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-202,Mariah Carey,,,,https://en.wikipedia.org/wiki/Mariah_Carey,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-203,Noah Kahan,,,,https://en.wikipedia.org/wiki/Noah_Kahan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-204,Megan Thee Stallion,,,,https://en.wikipedia.org/wiki/Megan_Thee_Stallion,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-205,Christian Nodal,,,,https://en.wikipedia.org/wiki/Christian_Nodal,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-206,Brent Faiyaz,,,,https://en.wikipedia.org/wiki/Brent_Faiyaz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-207,Martin Garrix,,,,https://en.wikipedia.org/wiki/Martin_Garrix,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-208,Banda MS de Sergio Lizárraga,,,,https://en.wikipedia.org/wiki/Banda_MS_de_Sergio_Liz%C3%A1rraga,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+198,Bryson Tiller,"Louisville, Kentucky",38.25611,-85.75139,https://en.wikipedia.org/wiki/Bryson_Tiller,https://en.wikipedia.org/wiki/Louisville%2C_Kentucky,False,high,matched,
+199,Rels B,Palma de Mallorca,39.567,2.65,https://en.wikipedia.org/wiki/Rels_B,https://en.wikipedia.org/wiki/Palma_de_Mallorca,False,high,matched,
+200,Roddy Ricch,"Compton, California",33.89667,-118.225,https://en.wikipedia.org/wiki/Roddy_Ricch,https://en.wikipedia.org/wiki/Compton%2C_California,False,high,matched,
+201,Guns N' Roses,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Guns_N%27_Roses,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+202,Mariah Carey,Mariah Carey,,,https://en.wikipedia.org/wiki/Mariah_Carey,https://en.wikipedia.org/wiki/Mariah_Carey,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+203,Noah Kahan,"Strafford, Vermont",43.87,-72.37722,https://en.wikipedia.org/wiki/Noah_Kahan,https://en.wikipedia.org/wiki/Strafford%2C_Vermont,False,high,matched,
+204,Megan Thee Stallion,San Antonio,29.425,-98.4939,https://en.wikipedia.org/wiki/Megan_Thee_Stallion,https://en.wikipedia.org/wiki/San_Antonio,False,high,matched,
+205,Christian Nodal,Caborca,30.717,-112.15,https://en.wikipedia.org/wiki/Christian_Nodal,https://en.wikipedia.org/wiki/Caborca,False,high,matched,
+206,Brent Faiyaz,"Columbia, Maryland",39.20361,-76.85694,https://en.wikipedia.org/wiki/Brent_Faiyaz,https://en.wikipedia.org/wiki/Columbia%2C_Maryland,False,high,matched,
+207,Martin Garrix,Amstelveen,52.3,4.85,https://en.wikipedia.org/wiki/Martin_Garrix,https://en.wikipedia.org/wiki/Amstelveen,False,high,matched,
+208,Banda MS de Sergio Lizárraga,Mazatlán,23.217,-106.417,https://en.wikipedia.org/wiki/Banda_MS_de_Sergio_Liz%C3%A1rraga,https://en.wikipedia.org/wiki/Mazatl%C3%A1n,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
 209,Pink Floyd,,,,https://en.wikipedia.org/wiki/Pink_Floyd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-210,mgk,,,,https://en.wikipedia.org/wiki/Mgk,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-211,Wisin & Yandel,,,,https://en.wikipedia.org/wiki/Wisin_%26_Yandel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-212,Dr. Dre,,,,https://en.wikipedia.org/wiki/Dr._Dre,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+210,mgk,MGK,,,https://en.wikipedia.org/wiki/Mgk,https://en.wikipedia.org/wiki/Mgk,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+211,Wisin & Yandel,"Cayey, Puerto Rico",18.11167,-66.16583,https://en.wikipedia.org/wiki/Wisin_%26_Yandel,https://en.wikipedia.org/wiki/Cayey%2C_Puerto_Rico,False,high,matched,
+212,Dr. Dre,"Compton, California",33.89667,-118.225,https://en.wikipedia.org/wiki/Dr._Dre,https://en.wikipedia.org/wiki/Compton%2C_California,False,high,matched,
 213,Mora,,,,https://en.wikipedia.org/wiki/Mora,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-214,Cigarettes After Sex,,,,https://en.wikipedia.org/wiki/Cigarettes_After_Sex,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-215,Childish Gambino,,,,https://en.wikipedia.org/wiki/Childish_Gambino,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-216,Wisin,,,,https://en.wikipedia.org/wiki/Wisin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-217,Major Lazer,,,,https://en.wikipedia.org/wiki/Major_Lazer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-218,John Mayer,,,,https://en.wikipedia.org/wiki/John_Mayer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+214,Cigarettes After Sex,"El Paso, Texas",31.75917,-106.48861,https://en.wikipedia.org/wiki/Cigarettes_After_Sex,https://en.wikipedia.org/wiki/El_Paso%2C_Texas,False,high,matched,
+215,Childish Gambino,Edwards Air Force Base,34.90556,-117.88361,https://en.wikipedia.org/wiki/Childish_Gambino,https://en.wikipedia.org/wiki/Edwards_Air_Force_Base,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+216,Wisin,"Cayey, Puerto Rico",18.11167,-66.16583,https://en.wikipedia.org/wiki/Wisin,https://en.wikipedia.org/wiki/Cayey%2C_Puerto_Rico,False,high,matched,
+217,Major Lazer,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Major_Lazer,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+218,John Mayer,"Bridgeport, Connecticut",41.18639,-73.19556,https://en.wikipedia.org/wiki/John_Mayer,https://en.wikipedia.org/wiki/Bridgeport%2C_Connecticut,False,high,matched,
 219,Miguel,,,,https://en.wikipedia.org/wiki/Miguel,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-220,Lil Nas X,,,,https://en.wikipedia.org/wiki/Lil_Nas_X,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-221,System Of A Down,,,,https://en.wikipedia.org/wiki/System_Of_A_Down,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+220,Lil Nas X,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Lil_Nas_X,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+221,System Of A Down,"Glendale, California",34.14611,-118.255,https://en.wikipedia.org/wiki/System_Of_A_Down,https://en.wikipedia.org/wiki/Glendale%2C_California,False,high,matched,
 222,Logic,,,,https://en.wikipedia.org/wiki/Logic,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-223,ABBA,,,,https://en.wikipedia.org/wiki/ABBA,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-224,Becky G,,,,https://en.wikipedia.org/wiki/Becky_G,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-225,Yandel,,,,https://en.wikipedia.org/wiki/Yandel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-226,Enrique Iglesias,,,,https://en.wikipedia.org/wiki/Enrique_Iglesias,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-227,Lil Yachty,,,,https://en.wikipedia.org/wiki/Lil_Yachty,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-228,Luis R Conriquez,,,,https://en.wikipedia.org/wiki/Luis_R_Conriquez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-229,Zion & Lennox,,,,https://en.wikipedia.org/wiki/Zion_%26_Lennox,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-230,5 Seconds of Summer,,,,https://en.wikipedia.org/wiki/5_Seconds_of_Summer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-231,Jack Harlow,,,,https://en.wikipedia.org/wiki/Jack_Harlow,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-232,TWICE,,,,https://en.wikipedia.org/wiki/TWICE,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-233,Ñengo Flow,,,,https://en.wikipedia.org/wiki/%C3%91engo_Flow,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-234,Ava Max,,,,https://en.wikipedia.org/wiki/Ava_Max,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+223,ABBA,Stockholm,59.32944,18.06861,https://en.wikipedia.org/wiki/ABBA,https://en.wikipedia.org/wiki/Stockholm,False,high,matched,
+224,Becky G,"Inglewood, California",33.9575,-118.34611,https://en.wikipedia.org/wiki/Becky_G,https://en.wikipedia.org/wiki/Inglewood%2C_California,False,high,matched,
+225,Yandel,"Cayey, Puerto Rico",18.11167,-66.16583,https://en.wikipedia.org/wiki/Yandel,https://en.wikipedia.org/wiki/Cayey%2C_Puerto_Rico,False,high,matched,
+226,Enrique Iglesias,Madrid,40.4169,-3.7033,https://en.wikipedia.org/wiki/Enrique_Iglesias,https://en.wikipedia.org/wiki/Madrid,False,high,matched,
+227,Lil Yachty,"Mableton, Georgia",33.81833,-84.57611,https://en.wikipedia.org/wiki/Lil_Yachty,https://en.wikipedia.org/wiki/Mableton%2C_Georgia,False,high,matched,
+228,Luis R Conriquez,Caborca,30.717,-112.15,https://en.wikipedia.org/wiki/Luis_R_Conriquez,https://en.wikipedia.org/wiki/Caborca,False,high,matched,
+229,Zion & Lennox,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Zion_%26_Lennox,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,False,high,matched,
+230,5 Seconds of Summer,Sydney,-33.86778,151.21,https://en.wikipedia.org/wiki/5_Seconds_of_Summer,https://en.wikipedia.org/wiki/Sydney,False,high,matched,
+231,Jack Harlow,"Louisville, Kentucky",38.25611,-85.75139,https://en.wikipedia.org/wiki/Jack_Harlow,https://en.wikipedia.org/wiki/Louisville%2C_Kentucky,False,high,matched,
+232,TWICE,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/TWICE,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+233,Ñengo Flow,"Río Piedras, Puerto Rico",18.39556,-66.04583,https://en.wikipedia.org/wiki/%C3%91engo_Flow,https://en.wikipedia.org/wiki/R%C3%ADo_Piedras%2C_Puerto_Rico,False,high,matched,
+234,Ava Max,Milwaukee,43.05,-87.95,https://en.wikipedia.org/wiki/Ava_Max,https://en.wikipedia.org/wiki/Milwaukee,False,high,matched,
 235,ZAYN,,,,https://en.wikipedia.org/wiki/ZAYN,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-236,Michael Bublé,,,,https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-237,Macklemore,,,,https://en.wikipedia.org/wiki/Macklemore,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-238,Anne-Marie,,,,https://en.wikipedia.org/wiki/Anne-Marie,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-239,The Rolling Stones,,,,https://en.wikipedia.org/wiki/The_Rolling_Stones,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-240,Frank Sinatra,,,,https://en.wikipedia.org/wiki/Frank_Sinatra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-241,Robin Schulz,,,,https://en.wikipedia.org/wiki/Robin_Schulz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-242,Bryant Myers,,,,https://en.wikipedia.org/wiki/Bryant_Myers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-243,Gusttavo Lima,,,,https://en.wikipedia.org/wiki/Gusttavo_Lima,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-244,Eladio Carrion,,,,https://en.wikipedia.org/wiki/Eladio_Carrion,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-245,Grupo Firme,,,,https://en.wikipedia.org/wiki/Grupo_Firme,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-246,Amitabh Bhattacharya,,,,https://en.wikipedia.org/wiki/Amitabh_Bhattacharya,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+236,Michael Bublé,Burnaby,49.267,-122.967,https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9,https://en.wikipedia.org/wiki/Burnaby,False,high,matched,
+237,Macklemore,Seattle,47.60389,-122.33,https://en.wikipedia.org/wiki/Macklemore,https://en.wikipedia.org/wiki/Seattle,False,high,matched,
+238,Anne-Marie,Anne-Marie,,,https://en.wikipedia.org/wiki/Anne-Marie,https://en.wikipedia.org/wiki/Anne-Marie,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+239,The Rolling Stones,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/The_Rolling_Stones,https://en.wikipedia.org/wiki/London,False,high,matched,
+240,Frank Sinatra,"Hoboken, New Jersey",40.745,-74.0325,https://en.wikipedia.org/wiki/Frank_Sinatra,https://en.wikipedia.org/wiki/Hoboken%2C_New_Jersey,False,high,matched,
+241,Robin Schulz,Osnabrück,52.283,8.05,https://en.wikipedia.org/wiki/Robin_Schulz,https://en.wikipedia.org/wiki/Osnabr%C3%BCck,False,high,matched,
+242,Bryant Myers,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Bryant_Myers,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,False,high,matched,
+243,Gusttavo Lima,Presidente Olegário,-18.41778,-46.41778,https://en.wikipedia.org/wiki/Gusttavo_Lima,https://en.wikipedia.org/wiki/Presidente_Oleg%C3%A1rio,False,high,matched,
+244,Eladio Carrion,"Kansas City, Kansas",39.10667,-94.67639,https://en.wikipedia.org/wiki/Eladio_Carrion,https://en.wikipedia.org/wiki/Kansas_City%2C_Kansas,False,high,matched,
+245,Grupo Firme,Tijuana,32.525,-117.03333,https://en.wikipedia.org/wiki/Grupo_Firme,https://en.wikipedia.org/wiki/Tijuana,False,high,matched,
+246,Amitabh Bhattacharya,Lucknow,26.85,80.95,https://en.wikipedia.org/wiki/Amitabh_Bhattacharya,https://en.wikipedia.org/wiki/Lucknow,False,high,matched,
 247,Alicia Keys,,,,https://en.wikipedia.org/wiki/Alicia_Keys,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-248,Kesha,,,,https://en.wikipedia.org/wiki/Kesha,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-249,LAUV,,,,https://en.wikipedia.org/wiki/Lauv,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-250,Madonna,,,,https://en.wikipedia.org/wiki/Madonna,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-251,Reik,,,,https://en.wikipedia.org/wiki/Reik,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-252,John Legend,,,,https://en.wikipedia.org/wiki/John_Legend,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-253,Meghan Trainor,,,,https://en.wikipedia.org/wiki/Meghan_Trainor,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-254,Lil Tecca,,,,https://en.wikipedia.org/wiki/Lil_Tecca,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-255,Lorde,,,,https://en.wikipedia.org/wiki/Lorde,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-256,MC Ryan SP,,,,https://en.wikipedia.org/wiki/MC_Kevin,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-257,Chris Stapleton,,,,https://en.wikipedia.org/wiki/Chris_Stapleton,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-258,French Montana,,,,https://en.wikipedia.org/wiki/French_Montana,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-259,Melanie Martinez,,,,https://en.wikipedia.org/wiki/Melanie_Martinez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-260,Elvis Presley,,,,https://en.wikipedia.org/wiki/Elvis_Presley,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-261,Rick Ross,,,,https://en.wikipedia.org/wiki/Rick_Ross,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-262,Cris MJ,,,,https://en.wikipedia.org/wiki/Cris_MJ,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-263,Zedd,,,,https://en.wikipedia.org/wiki/Zedd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-264,Paramore,,,,https://en.wikipedia.org/wiki/Paramore,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-265,Chance the Rapper,,,,https://en.wikipedia.org/wiki/Chance_the_Rapper,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-266,Ninho,,,,https://en.wikipedia.org/wiki/Ninho,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+248,Kesha,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Kesha,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+249,LAUV,San Francisco,37.7775,-122.41639,https://en.wikipedia.org/wiki/Lauv,https://en.wikipedia.org/wiki/San_Francisco,False,high,matched,
+250,Madonna,"Bay City, Michigan",43.595,-83.88861,https://en.wikipedia.org/wiki/Madonna,https://en.wikipedia.org/wiki/Bay_City%2C_Michigan,False,high,matched,
+251,Reik,Mexicali,32.66333,-115.46778,https://en.wikipedia.org/wiki/Reik,https://en.wikipedia.org/wiki/Mexicali,False,high,matched,
+252,John Legend,"Springfield, Ohio",39.92,-83.77083,https://en.wikipedia.org/wiki/John_Legend,https://en.wikipedia.org/wiki/Springfield%2C_Ohio,False,high,matched,
+253,Meghan Trainor,Nantucket,41.28278,-70.09944,https://en.wikipedia.org/wiki/Meghan_Trainor,https://en.wikipedia.org/wiki/Nantucket,False,high,matched,
+254,Lil Tecca,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Lil_Tecca,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+255,Lorde,Takapuna,-36.787,174.772,https://en.wikipedia.org/wiki/Lorde,https://en.wikipedia.org/wiki/Takapuna,False,high,matched,
+256,MC Ryan SP,São Paulo,-23.55,-46.633,https://en.wikipedia.org/wiki/MC_Kevin,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+257,Chris Stapleton,"Lexington, Kentucky",38.04639,-84.49694,https://en.wikipedia.org/wiki/Chris_Stapleton,https://en.wikipedia.org/wiki/Lexington%2C_Kentucky,False,high,matched,
+258,French Montana,Casablanca,33.533,-7.583,https://en.wikipedia.org/wiki/French_Montana,https://en.wikipedia.org/wiki/Casablanca,False,high,matched,
+259,Melanie Martinez,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Melanie_Martinez,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+260,Elvis Presley,Elvis Presley,,,https://en.wikipedia.org/wiki/Elvis_Presley,https://en.wikipedia.org/wiki/Elvis_Presley,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+261,Rick Ross,"Clarksdale, Mississippi",34.2,-90.567,https://en.wikipedia.org/wiki/Rick_Ross,https://en.wikipedia.org/wiki/Clarksdale%2C_Mississippi,False,high,matched,
+262,Cris MJ,"La Serena, Chile",-29.9,-71.25,https://en.wikipedia.org/wiki/Cris_MJ,https://en.wikipedia.org/wiki/La_Serena%2C_Chile,False,high,matched,
+263,Zedd,Saratov,51.53,46.035,https://en.wikipedia.org/wiki/Zedd,https://en.wikipedia.org/wiki/Saratov,False,high,matched,
+264,Paramore,"Franklin, Tennessee",35.92917,-86.8575,https://en.wikipedia.org/wiki/Paramore,https://en.wikipedia.org/wiki/Franklin%2C_Tennessee,False,high,matched,
+265,Chance the Rapper,Chicago,41.88194,-87.62778,https://en.wikipedia.org/wiki/Chance_the_Rapper,https://en.wikipedia.org/wiki/Chicago,False,high,matched,
+266,Ninho,Paris,48.8567,2.3522,https://en.wikipedia.org/wiki/Ninho,https://en.wikipedia.org/wiki/Paris,False,high,matched,
 267,blackbear,,,,https://en.wikipedia.org/wiki/Blackbear,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-268,Creedence Clearwater Revival,,,,https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-269,T-Pain,,,,https://en.wikipedia.org/wiki/T-Pain,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-270,Jung Kook,,,,https://en.wikipedia.org/wiki/Jung_Kook,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-271,Skrillex,,,,https://en.wikipedia.org/wiki/Skrillex,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-272,DJ Khaled,,,,https://en.wikipedia.org/wiki/DJ_Khaled,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-273,Wizkid,,,,https://en.wikipedia.org/wiki/Wizkid,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+268,Creedence Clearwater Revival,"El Cerrito, California",37.91583,-122.31167,https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival,https://en.wikipedia.org/wiki/El_Cerrito%2C_California,False,high,matched,
+269,T-Pain,"Tallahassee, Florida",30.44194,-84.28194,https://en.wikipedia.org/wiki/T-Pain,https://en.wikipedia.org/wiki/Tallahassee%2C_Florida,False,high,matched,
+270,Jung Kook,Busan,35.18,129.075,https://en.wikipedia.org/wiki/Jung_Kook,https://en.wikipedia.org/wiki/Busan,False,high,matched,
+271,Skrillex,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Skrillex,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+272,DJ Khaled,New Orleans,29.9761,-90.0783,https://en.wikipedia.org/wiki/DJ_Khaled,https://en.wikipedia.org/wiki/New_Orleans,False,high,matched,
+273,Wizkid,Ojuelegba,6.50927,3.36685,https://en.wikipedia.org/wiki/Wizkid,https://en.wikipedia.org/wiki/Ojuelegba,False,high,matched,
 274,Oasis,,,,https://en.wikipedia.org/wiki/Oasis,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-275,Christina Aguilera,,,,https://en.wikipedia.org/wiki/Christina_Aguilera,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+275,Christina Aguilera,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Christina_Aguilera,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
 276,Slipknot,,,,https://en.wikipedia.org/wiki/Slipknot,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-277,Irshad Kamil,,,,https://en.wikipedia.org/wiki/Irshad_Kamil,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+277,Irshad Kamil,Malerkotla,30.5167,75.8833,https://en.wikipedia.org/wiki/Irshad_Kamil,https://en.wikipedia.org/wiki/Malerkotla,False,high,matched,
 278,Little Mix,,,,https://en.wikipedia.org/wiki/Little_Mix,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-279,Beéle,,,,https://en.wikipedia.org/wiki/Be%C3%A9le,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+279,Beéle,Barranquilla,10.98333,-74.80194,https://en.wikipedia.org/wiki/Be%C3%A9le,https://en.wikipedia.org/wiki/Barranquilla,False,high,matched,
 280,The Notorious B.I.G.,,,,https://en.wikipedia.org/wiki/The_Notorious_B.I.G.,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-281,Mitski,,,,https://en.wikipedia.org/wiki/Mitski,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-282,Tainy,,,,https://en.wikipedia.org/wiki/Tainy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-283,Zé Neto & Cristiano,,,,https://en.wikipedia.org/wiki/Cristiano_Ara%C3%BAjo,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-284,Rammstein,,,,https://en.wikipedia.org/wiki/Rammstein,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-285,Labrinth,,,,https://en.wikipedia.org/wiki/Labrinth,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-286,Chencho Corleone,,,,https://en.wikipedia.org/wiki/Chencho_Corleone,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+281,Mitski,Mie Prefecture,34.7,136.5,https://en.wikipedia.org/wiki/Mitski,https://en.wikipedia.org/wiki/Mie_Prefecture,False,high,matched,
+282,Tainy,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Tainy,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
+283,Zé Neto & Cristiano,Goiânia,-16.667,-49.25,https://en.wikipedia.org/wiki/Cristiano_Ara%C3%BAjo,https://en.wikipedia.org/wiki/Goi%C3%A2nia,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+284,Rammstein,Berlin,52.52,13.405,https://en.wikipedia.org/wiki/Rammstein,https://en.wikipedia.org/wiki/Berlin,False,high,matched,
+285,Labrinth,London Borough of Hackney,51.55,-0.05833,https://en.wikipedia.org/wiki/Labrinth,https://en.wikipedia.org/wiki/London_Borough_of_Hackney,False,high,matched,
+286,Chencho Corleone,"Guayama, Puerto Rico",17.97417,-66.11,https://en.wikipedia.org/wiki/Chencho_Corleone,https://en.wikipedia.org/wiki/Guayama%2C_Puerto_Rico,False,high,matched,
 287,Darell,,,,https://en.wikipedia.org/wiki/Darell,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-288,Bon Jovi,,,,https://en.wikipedia.org/wiki/Bon_Jovi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-289,The Killers,,,,https://en.wikipedia.org/wiki/The_Killers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-290,blink-182,,,,https://en.wikipedia.org/wiki/Blink-182,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-291,Summer Walker,,,,https://en.wikipedia.org/wiki/Summer_Walker,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-292,Jhené Aiko,,,,https://en.wikipedia.org/wiki/Jhen%C3%A9_Aiko,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-293,Kehlani,,,,https://en.wikipedia.org/wiki/Kehlani,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-294,Clean Bandit,,,,https://en.wikipedia.org/wiki/Clean_Bandit,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+288,Bon Jovi,"Sayreville, New Jersey",40.4625,-74.325,https://en.wikipedia.org/wiki/Bon_Jovi,https://en.wikipedia.org/wiki/Sayreville%2C_New_Jersey,False,high,matched,
+289,The Killers,Las Vegas,36.16917,-115.14056,https://en.wikipedia.org/wiki/The_Killers,https://en.wikipedia.org/wiki/Las_Vegas,False,high,matched,
+290,blink-182,"Poway, California",32.97,-117.03861,https://en.wikipedia.org/wiki/Blink-182,https://en.wikipedia.org/wiki/Poway%2C_California,False,high,matched,
+291,Summer Walker,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Summer_Walker,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+292,Jhené Aiko,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/Jhen%C3%A9_Aiko,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+293,Kehlani,"Oakland, California",37.80444,-122.27083,https://en.wikipedia.org/wiki/Kehlani,https://en.wikipedia.org/wiki/Oakland%2C_California,False,high,matched,
+294,Clean Bandit,Cambridge,52.205,0.1225,https://en.wikipedia.org/wiki/Clean_Bandit,https://en.wikipedia.org/wiki/Cambridge,False,high,matched,
 295,David Bowie,,,,https://en.wikipedia.org/wiki/David_Bowie,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
 296,U2,,,,https://en.wikipedia.org/wiki/U2,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
 297,Aventura,,,,https://en.wikipedia.org/wiki/Aventura,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-298,Foo Fighters,,,,https://en.wikipedia.org/wiki/Foo_Fighters,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-299,The 1975,,,,https://en.wikipedia.org/wiki/The_1975,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-300,Maria Becerra,,,,https://en.wikipedia.org/wiki/Maria_Becerra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+298,Foo Fighters,Seattle,47.60389,-122.33,https://en.wikipedia.org/wiki/Foo_Fighters,https://en.wikipedia.org/wiki/Seattle,False,high,matched,
+299,The 1975,Wilmslow,53.325,-2.239,https://en.wikipedia.org/wiki/The_1975,https://en.wikipedia.org/wiki/Wilmslow,False,high,matched,
+300,Maria Becerra,Quilmes,-34.71667,-58.26667,https://en.wikipedia.org/wiki/Maria_Becerra,https://en.wikipedia.org/wiki/Quilmes,False,high,matched,
 301,Plan B,,,,https://en.wikipedia.org/wiki/Plan_B,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-302,Steve Lacy,,,,https://en.wikipedia.org/wiki/Steve_Lacy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-303,De La Ghetto,,,,https://en.wikipedia.org/wiki/De_La_Ghetto,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-304,Troye Sivan,,,,https://en.wikipedia.org/wiki/Troye_Sivan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-305,Conan Gray,,,,https://en.wikipedia.org/wiki/Conan_Gray,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-306,Ludacris,,,,https://en.wikipedia.org/wiki/Ludacris,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-307,Burna Boy,,,,https://en.wikipedia.org/wiki/Burna_Boy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+302,Steve Lacy,"Compton, California",33.89667,-118.225,https://en.wikipedia.org/wiki/Steve_Lacy,https://en.wikipedia.org/wiki/Compton%2C_California,False,high,matched,
+303,De La Ghetto,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/De_La_Ghetto,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+304,Troye Sivan,Johannesburg,-26.20444,28.04556,https://en.wikipedia.org/wiki/Troye_Sivan,https://en.wikipedia.org/wiki/Johannesburg,False,high,matched,
+305,Conan Gray,"Lemon Grove, California",32.74139,-117.03167,https://en.wikipedia.org/wiki/Conan_Gray,https://en.wikipedia.org/wiki/Lemon_Grove%2C_California,False,high,matched,
+306,Ludacris,"Champaign, Illinois",40.1164,-88.2436,https://en.wikipedia.org/wiki/Ludacris,https://en.wikipedia.org/wiki/Champaign%2C_Illinois,False,high,matched,
+307,Burna Boy,Port Harcourt,4.82417,7.03361,https://en.wikipedia.org/wiki/Burna_Boy,https://en.wikipedia.org/wiki/Port_Harcourt,False,high,matched,
 308,Danny Ocean,,,,https://en.wikipedia.org/wiki/Danny_Ocean,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-309,Meek Mill,,,,https://en.wikipedia.org/wiki/Meek_Mill,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-310,My Chemical Romance,,,,https://en.wikipedia.org/wiki/My_Chemical_Romance,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-311,Alessia Cara,,,,https://en.wikipedia.org/wiki/Alessia_Cara,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-312,Vishal-Shekhar,,,,https://en.wikipedia.org/wiki/Vishal-Shekhar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-313,Paulo Londra,,,,https://en.wikipedia.org/wiki/Paulo_Londra,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+309,Meek Mill,Philadelphia,39.9528,-75.1636,https://en.wikipedia.org/wiki/Meek_Mill,https://en.wikipedia.org/wiki/Philadelphia,False,high,matched,
+310,My Chemical Romance,New Jersey,40.0,-74.5,https://en.wikipedia.org/wiki/My_Chemical_Romance,https://en.wikipedia.org/wiki/New_Jersey,False,high,matched,
+311,Alessia Cara,Mississauga,43.6,-79.65,https://en.wikipedia.org/wiki/Alessia_Cara,https://en.wikipedia.org/wiki/Mississauga,False,high,matched,
+312,Vishal-Shekhar,Mumbai,19.07611,72.8775,https://en.wikipedia.org/wiki/Vishal-Shekhar,https://en.wikipedia.org/wiki/Mumbai,False,high,matched,
+313,Paulo Londra,"Córdoba, Argentina",-31.417,-64.183,https://en.wikipedia.org/wiki/Paulo_Londra,https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Argentina,False,high,matched,
 314,La Arrolladora Banda El Limón De Rene Camacho,,,,https://en.wikipedia.org/wiki/La_Arrolladora_Banda_el_Limon_de_Rene_Camacho,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
-315,Yeat,,,,https://en.wikipedia.org/wiki/Yeat,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-316,Matheus & Kauan,,,,https://en.wikipedia.org/wiki/Matheus_%26_Kauan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+315,Yeat,"Irvine, California",33.66944,-117.82306,https://en.wikipedia.org/wiki/Yeat,https://en.wikipedia.org/wiki/Irvine%2C_California,False,high,matched,
+316,Matheus & Kauan,Itapuranga,-15.56194,-49.94889,https://en.wikipedia.org/wiki/Matheus_%26_Kauan,https://en.wikipedia.org/wiki/Itapuranga,False,high,matched,
 317,Alok,,,,https://en.wikipedia.org/wiki/Alok,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-318,Bring Me The Horizon,,,,https://en.wikipedia.org/wiki/Bring_Me_The_Horizon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-319,Central Cee,,,,https://en.wikipedia.org/wiki/Central_Cee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+318,Bring Me The Horizon,Sheffield,53.38083,-1.47028,https://en.wikipedia.org/wiki/Bring_Me_The_Horizon,https://en.wikipedia.org/wiki/Sheffield,False,high,matched,
+319,Central Cee,Notting Hill,51.5096,-0.2043,https://en.wikipedia.org/wiki/Central_Cee,https://en.wikipedia.org/wiki/Notting_Hill,False,high,matched,
 320,League of Legends,,,,https://en.wikipedia.org/wiki/League_of_Legends,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-321,Mac DeMarco,,,,https://en.wikipedia.org/wiki/Mac_DeMarco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-322,Benson Boone,,,,https://en.wikipedia.org/wiki/Benson_Boone,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-323,Dalex,,,,https://en.wikipedia.org/wiki/Dalex,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-324,Nickelback,,,,https://en.wikipedia.org/wiki/Nickelback,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+321,Mac DeMarco,"Duncan, British Columbia",48.7786,-123.7081,https://en.wikipedia.org/wiki/Mac_DeMarco,https://en.wikipedia.org/wiki/Duncan%2C_British_Columbia,False,high,matched,
+322,Benson Boone,"Monroe, Washington",47.85778,-121.98833,https://en.wikipedia.org/wiki/Benson_Boone,https://en.wikipedia.org/wiki/Monroe%2C_Washington,False,high,matched,
+323,Dalex,Philadelphia,39.9528,-75.1636,https://en.wikipedia.org/wiki/Dalex,https://en.wikipedia.org/wiki/Philadelphia,False,high,matched,
+324,Nickelback,"Hanna, Alberta",51.63833,-111.94194,https://en.wikipedia.org/wiki/Nickelback,https://en.wikipedia.org/wiki/Hanna%2C_Alberta,False,high,matched,
 325,Marc Anthony,,,,https://en.wikipedia.org/wiki/Marc_Anthony,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-326,Maná,,,,https://en.wikipedia.org/wiki/Man%C3%A1,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-327,Led Zeppelin,,,,https://en.wikipedia.org/wiki/Led_Zeppelin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-328,Måneskin,,,,https://en.wikipedia.org/wiki/M%C3%A5neskin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-329,Florida Georgia Line,,,,https://en.wikipedia.org/wiki/Florida_Georgia_Line,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-330,Luis Fonsi,,,,https://en.wikipedia.org/wiki/Luis_Fonsi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-331,RAYE,,,,https://en.wikipedia.org/wiki/RAYE,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-332,Neton Vega,,,,https://en.wikipedia.org/wiki/Neton_Vega,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+326,Maná,Guadalajara,20.67667,-103.3475,https://en.wikipedia.org/wiki/Man%C3%A1,https://en.wikipedia.org/wiki/Guadalajara,False,high,matched,
+327,Led Zeppelin,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Led_Zeppelin,https://en.wikipedia.org/wiki/London,False,high,matched,
+328,Måneskin,Rome,41.89333,12.48278,https://en.wikipedia.org/wiki/M%C3%A5neskin,https://en.wikipedia.org/wiki/Rome,False,high,matched,
+329,Florida Georgia Line,"Nashville, Tennessee",36.16222,-86.77444,https://en.wikipedia.org/wiki/Florida_Georgia_Line,https://en.wikipedia.org/wiki/Nashville%2C_Tennessee,False,high,matched,
+330,Luis Fonsi,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Luis_Fonsi,https://en.wikipedia.org/wiki/San_Juan_(Puerto_Rico),False,high,matched,
+331,RAYE,Tooting,51.428,-0.165,https://en.wikipedia.org/wiki/RAYE,https://en.wikipedia.org/wiki/Tooting,False,high,matched,
+332,Neton Vega,"La Paz, Baja California Sur",24.14222,-110.31083,https://en.wikipedia.org/wiki/Neton_Vega,https://en.wikipedia.org/wiki/La_Paz%2C_Baja_California_Sur,False,high,matched,
 333,Gracie Abrams,,,,https://en.wikipedia.org/wiki/Gracie_Abrams,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-334,Timbaland,,,,https://en.wikipedia.org/wiki/Timbaland,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-335,Jeremih,,,,https://en.wikipedia.org/wiki/Jeremih,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-336,The Lumineers,,,,https://en.wikipedia.org/wiki/The_Lumineers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-337,Oscar Maydon,,,,https://en.wikipedia.org/wiki/Oscar_Maydon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-338,Anderson .Paak,,,,https://en.wikipedia.org/wiki/Anderson_.Paak,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-339,Chase Atlantic,,,,https://en.wikipedia.org/wiki/Chase_Atlantic,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-340,Julión Álvarez y su Norteño Banda,,,,https://en.wikipedia.org/wiki/Juli%C3%B3n_%C3%81lvarez_y_su_Norte%C3%B1o_Banda,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+334,Timbaland,"Norfolk, Virginia",36.84694,-76.28528,https://en.wikipedia.org/wiki/Timbaland,https://en.wikipedia.org/wiki/Norfolk%2C_Virginia,False,high,matched,
+335,Jeremih,Chicago,41.88194,-87.62778,https://en.wikipedia.org/wiki/Jeremih,https://en.wikipedia.org/wiki/Chicago,False,high,matched,
+336,The Lumineers,"Ramsey, New Jersey",41.061325,-74.146996,https://en.wikipedia.org/wiki/The_Lumineers,https://en.wikipedia.org/wiki/Ramsey%2C_New_Jersey,False,high,matched,
+337,Oscar Maydon,Mexicali,32.66333,-115.46778,https://en.wikipedia.org/wiki/Oscar_Maydon,https://en.wikipedia.org/wiki/Mexicali,False,high,matched,
+338,Anderson .Paak,"Oxnard, California",34.19139,-119.1825,https://en.wikipedia.org/wiki/Anderson_.Paak,https://en.wikipedia.org/wiki/Oxnard%2C_California,False,high,matched,
+339,Chase Atlantic,Cairns,-16.92,145.78,https://en.wikipedia.org/wiki/Chase_Atlantic,https://en.wikipedia.org/wiki/Cairns,False,high,matched,
+340,Julión Álvarez y su Norteño Banda,"La Concordia, Chiapas",16.117,-92.683,https://en.wikipedia.org/wiki/Juli%C3%B3n_%C3%81lvarez_y_su_Norte%C3%B1o_Banda,https://en.wikipedia.org/wiki/La_Concordia%2C_Chiapas,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
 341,Prince Royce,,,,https://en.wikipedia.org/wiki/Prince_Royce,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
 342,Bastille,,,,https://en.wikipedia.org/wiki/Bastille,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-343,Sfera Ebbasta,,,,https://en.wikipedia.org/wiki/Sfera_Ebbasta,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-344,Florence + The Machine,,,,https://en.wikipedia.org/wiki/Florence_%2B_The_Machine,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+343,Sfera Ebbasta,Sesto San Giovanni,45.533,9.233,https://en.wikipedia.org/wiki/Sfera_Ebbasta,https://en.wikipedia.org/wiki/Sesto_San_Giovanni,False,high,matched,
+344,Florence + The Machine,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Florence_%2B_The_Machine,https://en.wikipedia.org/wiki/London,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
 345,YG,,,,https://en.wikipedia.org/wiki/YG,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-346,Alejandro Sanz,,,,https://en.wikipedia.org/wiki/Alejandro_Sanz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-347,Lil Tjay,,,,https://en.wikipedia.org/wiki/Lil_Tjay,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-348,GIVĒON,,,,https://en.wikipedia.org/wiki/GIV%C4%92ON,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+346,Alejandro Sanz,Madrid,40.4169,-3.7033,https://en.wikipedia.org/wiki/Alejandro_Sanz,https://en.wikipedia.org/wiki/Madrid,False,high,matched,
+347,Lil Tjay,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/Lil_Tjay,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+348,GIVĒON,"Long Beach, California",33.76833,-118.19556,https://en.wikipedia.org/wiki/GIV%C4%92ON,https://en.wikipedia.org/wiki/Long_Beach%2C_California,False,high,matched,
 349,Billy Joel,,,,https://en.wikipedia.org/wiki/Billy_Joel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-350,Luke Bryan,,,,https://en.wikipedia.org/wiki/Luke_Bryan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+350,Luke Bryan,"Edison, Georgia",31.56083,-84.73806,https://en.wikipedia.org/wiki/Luke_Bryan,https://en.wikipedia.org/wiki/Edison%2C_Georgia,False,high,matched,
 351,Muse,,,,https://en.wikipedia.org/wiki/Muse,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
-352,Jonas Blue,,,,https://en.wikipedia.org/wiki/Jonas_Blue,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-353,Teddy Swims,,,,https://en.wikipedia.org/wiki/Teddy_Swims,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-354,Juanes,,,,https://en.wikipedia.org/wiki/Juanes,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+352,Jonas Blue,Essex,51.75,0.583,https://en.wikipedia.org/wiki/Jonas_Blue,https://en.wikipedia.org/wiki/Essex,False,high,matched,
+353,Teddy Swims,"Conyers, Georgia",33.66639,-84.0075,https://en.wikipedia.org/wiki/Teddy_Swims,https://en.wikipedia.org/wiki/Conyers%2C_Georgia,False,high,matched,
+354,Juanes,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Juanes,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
 355,Jennifer Lopez,,,,https://en.wikipedia.org/wiki/Jennifer_Lopez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-356,Cartel De Santa,,,,https://en.wikipedia.org/wiki/Cartel_De_Santa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-357,T.I.,,,,https://en.wikipedia.org/wiki/T.I.,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-358,Gabito Ballesteros,,,,https://en.wikipedia.org/wiki/Gabito_Ballesteros,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-359,El Alfa,,,,https://en.wikipedia.org/wiki/El_Alfa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-360,Alka Yagnik,,,,https://en.wikipedia.org/wiki/Alka_Yagnik,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-361,Blessd,,,,https://en.wikipedia.org/wiki/Blessd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-362,NATTI NATASHA,,,,https://en.wikipedia.org/wiki/Natti_Natasha,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-363,Bruce Springsteen,,,,https://en.wikipedia.org/wiki/Bruce_Springsteen,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-364,Alfredo Olivas,,,,https://en.wikipedia.org/wiki/Alfredo_Olivas,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-365,Jonas Brothers,,,,https://en.wikipedia.org/wiki/Jonas_Brothers,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-366,Hans Zimmer,,,,https://en.wikipedia.org/wiki/Hans_Zimmer,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-367,Julia Michaels,,,,https://en.wikipedia.org/wiki/Julia_Michaels,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-368,Deftones,,,,https://en.wikipedia.org/wiki/Deftones,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-369,Clairo,,,,https://en.wikipedia.org/wiki/Clairo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-370,Whitney Houston,,,,https://en.wikipedia.org/wiki/Whitney_Houston,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-371,Tove Lo,,,,https://en.wikipedia.org/wiki/Tove_Lo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-372,DJ Luian,,,,https://en.wikipedia.org/wiki/DJ_Luian,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-373,Amy Winehouse,,,,https://en.wikipedia.org/wiki/Amy_Winehouse,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-374,TV Girl,,,,https://en.wikipedia.org/wiki/TV_Girl,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-375,Tanishk Bagchi,,,,https://en.wikipedia.org/wiki/Tanishk_Bagchi,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+356,Cartel De Santa,"Santa Catarina, Nuevo León",25.683,-100.45,https://en.wikipedia.org/wiki/Cartel_De_Santa,https://en.wikipedia.org/wiki/Santa_Catarina%2C_Nuevo_Le%C3%B3n,False,high,matched,
+357,T.I.,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/T.I.,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+358,Gabito Ballesteros,Cumpas,,,https://en.wikipedia.org/wiki/Gabito_Ballesteros,https://en.wikipedia.org/wiki/Cumpas,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+359,El Alfa,Bajos de Haina,18.417,-70.033,https://en.wikipedia.org/wiki/El_Alfa,https://en.wikipedia.org/wiki/Bajos_de_Haina,False,high,matched,
+360,Alka Yagnik,Kolkata,22.5675,88.37,https://en.wikipedia.org/wiki/Alka_Yagnik,https://en.wikipedia.org/wiki/Kolkata,False,high,matched,
+361,Blessd,Itagüí,6.167,-75.617,https://en.wikipedia.org/wiki/Blessd,https://en.wikipedia.org/wiki/Itag%C3%BC%C3%AD,False,high,matched,
+362,NATTI NATASHA,Santiago de los Caballeros,19.45722,-70.68889,https://en.wikipedia.org/wiki/Natti_Natasha,https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros,False,high,matched,
+363,Bruce Springsteen,"Long Branch, New Jersey",40.295372,-73.989899,https://en.wikipedia.org/wiki/Bruce_Springsteen,https://en.wikipedia.org/wiki/Long_Branch%2C_New_Jersey,False,high,matched,
+364,Alfredo Olivas,Ciudad Obregón,27.49389,-109.93889,https://en.wikipedia.org/wiki/Alfredo_Olivas,https://en.wikipedia.org/wiki/Ciudad_Obreg%C3%B3n,False,high,matched,
+365,Jonas Brothers,"Wyckoff, New Jersey",40.999093,-74.168849,https://en.wikipedia.org/wiki/Jonas_Brothers,https://en.wikipedia.org/wiki/Wyckoff%2C_New_Jersey,False,high,matched,
+366,Hans Zimmer,Frankfurt,50.11056,8.68222,https://en.wikipedia.org/wiki/Hans_Zimmer,https://en.wikipedia.org/wiki/Frankfurt,False,high,matched,
+367,Julia Michaels,"Davenport, Iowa",41.55682,-90.603948,https://en.wikipedia.org/wiki/Julia_Michaels,https://en.wikipedia.org/wiki/Davenport%2C_Iowa,False,high,matched,
+368,Deftones,"Sacramento, California",38.58111,-121.49389,https://en.wikipedia.org/wiki/Deftones,https://en.wikipedia.org/wiki/Sacramento%2C_California,False,high,matched,
+369,Clairo,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/Clairo,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
+370,Whitney Houston,"Newark, New Jersey",40.7356,-74.1722,https://en.wikipedia.org/wiki/Whitney_Houston,https://en.wikipedia.org/wiki/Newark%2C_New_Jersey,False,high,matched,
+371,Tove Lo,Helsingborg,56.05,12.717,https://en.wikipedia.org/wiki/Tove_Lo,https://en.wikipedia.org/wiki/Helsingborg,False,high,matched,
+372,DJ Luian,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/DJ_Luian,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,False,high,matched,
+373,Amy Winehouse,"Southgate, London",51.6316,-0.1265,https://en.wikipedia.org/wiki/Amy_Winehouse,https://en.wikipedia.org/wiki/Southgate%2C_London,False,high,matched,
+374,TV Girl,San Diego,32.715,-117.1625,https://en.wikipedia.org/wiki/TV_Girl,https://en.wikipedia.org/wiki/San_Diego,False,high,matched,
+375,Tanishk Bagchi,Kolkata,22.5675,88.37,https://en.wikipedia.org/wiki/Tanishk_Bagchi,https://en.wikipedia.org/wiki/Kolkata,False,high,matched,
 376,Dave,,,,https://en.wikipedia.org/wiki/Dave,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-377,Avril Lavigne,,,,https://en.wikipedia.org/wiki/Avril_Lavigne,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-378,Lost Frequencies,,,,https://en.wikipedia.org/wiki/Lost_Frequencies,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-379,Kings of Leon,,,,https://en.wikipedia.org/wiki/Kings_of_Leon,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-380,Joan Sebastian,,,,https://en.wikipedia.org/wiki/Joan_Sebastian,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-381,Alejandro Fernández,,,,https://en.wikipedia.org/wiki/Alejandro_Fern%C3%A1ndez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-382,Glass Animals,,,,https://en.wikipedia.org/wiki/Glass_Animals,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-383,Sachin-Jigar,,,,https://en.wikipedia.org/wiki/Sachin-Jigar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-384,Fetty Wap,,,,https://en.wikipedia.org/wiki/Fetty_Wap,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+377,Avril Lavigne,"Belleville, Ontario",44.167,-77.383,https://en.wikipedia.org/wiki/Avril_Lavigne,https://en.wikipedia.org/wiki/Belleville%2C_Ontario,False,high,matched,
+378,Lost Frequencies,City of Brussels,50.84667,4.3525,https://en.wikipedia.org/wiki/Lost_Frequencies,https://en.wikipedia.org/wiki/City_of_Brussels,False,high,matched,
+379,Kings of Leon,"Mount Juliet, Tennessee",36.20278,-86.51361,https://en.wikipedia.org/wiki/Kings_of_Leon,https://en.wikipedia.org/wiki/Mount_Juliet%2C_Tennessee,False,high,matched,
+380,Joan Sebastian,Juliantla,18.317,-99.867,https://en.wikipedia.org/wiki/Joan_Sebastian,https://en.wikipedia.org/wiki/Juliantla,False,high,matched,
+381,Alejandro Fernández,Guadalajara,20.67667,-103.3475,https://en.wikipedia.org/wiki/Alejandro_Fern%C3%A1ndez,https://en.wikipedia.org/wiki/Guadalajara,False,high,matched,
+382,Glass Animals,Oxford,51.75194,-1.25778,https://en.wikipedia.org/wiki/Glass_Animals,https://en.wikipedia.org/wiki/Oxford,False,high,matched,
+383,Sachin-Jigar,Mumbai,19.07611,72.8775,https://en.wikipedia.org/wiki/Sachin-Jigar,https://en.wikipedia.org/wiki/Mumbai,False,high,matched,
+384,Fetty Wap,"Paterson, New Jersey",40.91667,-74.17222,https://en.wikipedia.org/wiki/Fetty_Wap,https://en.wikipedia.org/wiki/Paterson%2C_New_Jersey,False,high,matched,
 385,NAV,,,,https://en.wikipedia.org/wiki/NAV,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-386,Jack Johnson,,,,https://en.wikipedia.org/wiki/Jack_Johnson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-387,SEVENTEEN,,,,https://en.wikipedia.org/wiki/SEVENTEEN,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-388,The Script,,,,https://en.wikipedia.org/wiki/The_Script,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-389,TINI,,,,https://en.wikipedia.org/wiki/TINI,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-390,Backstreet Boys,,,,https://en.wikipedia.org/wiki/Backstreet_Boys,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-391,Jimin,,,,https://en.wikipedia.org/wiki/Jimin,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-392,Mambo Kingz,,,,https://en.wikipedia.org/wiki/DJ_Luian,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-393,NLE Choppa,,,,https://en.wikipedia.org/wiki/NLE_Choppa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-394,GIMS,,,,https://en.wikipedia.org/wiki/GIMS,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-395,Calibre 50,,,,https://en.wikipedia.org/wiki/Calibre_50,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-396,Chappell Roan,,,,https://en.wikipedia.org/wiki/Chappell_Roan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-397,Stevie Wonder,,,,https://en.wikipedia.org/wiki/Stevie_Wonder,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-398,Juicy J,,,,https://en.wikipedia.org/wiki/Juicy_J,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-399,Mark Ronson,,,,https://en.wikipedia.org/wiki/Mark_Ronson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-400,Kelly Clarkson,,,,https://en.wikipedia.org/wiki/Kelly_Clarkson,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-401,The Offspring,,,,https://en.wikipedia.org/wiki/The_Offspring,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-402,Bonez MC,,,,https://en.wikipedia.org/wiki/Bonez_MC,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-403,Bibi Blocksberg,,,,https://en.wikipedia.org/wiki/Bibi_Blocksberg,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-404,Milo j,,,,https://en.wikipedia.org/wiki/Milo_J,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-405,Jay Wheeler,,,,https://en.wikipedia.org/wiki/Jay_Wheeler,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-406,felix jaehn,,,,https://en.wikipedia.org/wiki/Felix_Jaehn,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-407,Niall Horan,,,,https://en.wikipedia.org/wiki/Niall_Horan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-408,6ix9ine,,,,https://en.wikipedia.org/wiki/6ix9ine,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-409,Nate Dogg,,,,https://en.wikipedia.org/wiki/Nate_Dogg,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-410,Noriel,,,,https://en.wikipedia.org/wiki/Noriel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-411,Vicente Fernández,,,,https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-412,Three Days Grace,,,,https://en.wikipedia.org/wiki/Three_Days_Grace,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-413,Aerosmith,,,,https://en.wikipedia.org/wiki/Aerosmith,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+386,Jack Johnson,"Galveston, Texas",29.30139,-94.795,https://en.wikipedia.org/wiki/Jack_Johnson,https://en.wikipedia.org/wiki/Galveston%2C_Texas,False,high,matched,
+387,SEVENTEEN,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/SEVENTEEN,https://en.wikipedia.org/wiki/Seoul,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+388,The Script,Dublin,53.35,-6.26028,https://en.wikipedia.org/wiki/The_Script,https://en.wikipedia.org/wiki/Dublin,False,high,matched,
+389,TINI,Buenos Aires,-34.60389,-58.38139,https://en.wikipedia.org/wiki/TINI,https://en.wikipedia.org/wiki/Buenos_Aires,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+390,Backstreet Boys,"Orlando, Florida",28.54222,-81.37917,https://en.wikipedia.org/wiki/Backstreet_Boys,https://en.wikipedia.org/wiki/Orlando%2C_Florida,False,high,matched,
+391,Jimin,Busan,35.18,129.075,https://en.wikipedia.org/wiki/Jimin,https://en.wikipedia.org/wiki/Busan,False,high,matched,
+392,Mambo Kingz,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/DJ_Luian,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+393,NLE Choppa,"Memphis, Tennessee",35.14611,-90.05194,https://en.wikipedia.org/wiki/NLE_Choppa,https://en.wikipedia.org/wiki/Memphis%2C_Tennessee,False,high,matched,
+394,GIMS,Kinshasa,-4.32194,15.31194,https://en.wikipedia.org/wiki/GIMS,https://en.wikipedia.org/wiki/Kinshasa,False,high,matched,
+395,Calibre 50,Mazatlán,23.217,-106.417,https://en.wikipedia.org/wiki/Calibre_50,https://en.wikipedia.org/wiki/Mazatl%C3%A1n,False,high,matched,
+396,Chappell Roan,"Willard, Missouri",37.29444,-93.42333,https://en.wikipedia.org/wiki/Chappell_Roan,https://en.wikipedia.org/wiki/Willard%2C_Missouri,False,high,matched,
+397,Stevie Wonder,"Saginaw, Michigan",43.42,-83.95,https://en.wikipedia.org/wiki/Stevie_Wonder,https://en.wikipedia.org/wiki/Saginaw%2C_Michigan,False,high,matched,
+398,Juicy J,"Memphis, Tennessee",35.14611,-90.05194,https://en.wikipedia.org/wiki/Juicy_J,https://en.wikipedia.org/wiki/Memphis%2C_Tennessee,False,high,matched,
+399,Mark Ronson,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Mark_Ronson,https://en.wikipedia.org/wiki/London,False,high,matched,
+400,Kelly Clarkson,"Fort Worth, Texas",32.75639,-97.3325,https://en.wikipedia.org/wiki/Kelly_Clarkson,https://en.wikipedia.org/wiki/Fort_Worth%2C_Texas,False,high,matched,
+401,The Offspring,"Garden Grove, California",33.77889,-117.96028,https://en.wikipedia.org/wiki/The_Offspring,https://en.wikipedia.org/wiki/Garden_Grove%2C_California,False,high,matched,
+402,Bonez MC,Hamburg,53.55,10.0,https://en.wikipedia.org/wiki/Bonez_MC,https://en.wikipedia.org/wiki/Hamburg,False,high,matched,
+403,Bibi Blocksberg,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Bibi_Blocksberg,https://en.wikipedia.org/wiki/London,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+404,Milo j,"Morón, Buenos Aires",-34.65,-58.617,https://en.wikipedia.org/wiki/Milo_J,https://en.wikipedia.org/wiki/Mor%C3%B3n%2C_Buenos_Aires,False,high,matched,
+405,Jay Wheeler,"Salinas, Puerto Rico",17.977,-66.298,https://en.wikipedia.org/wiki/Jay_Wheeler,https://en.wikipedia.org/wiki/Salinas%2C_Puerto_Rico,False,high,matched,
+406,felix jaehn,Hamburg,53.55,10.0,https://en.wikipedia.org/wiki/Felix_Jaehn,https://en.wikipedia.org/wiki/Hamburg,False,high,matched,
+407,Niall Horan,Mullingar,53.5224,-7.3378,https://en.wikipedia.org/wiki/Niall_Horan,https://en.wikipedia.org/wiki/Mullingar,False,high,matched,
+408,6ix9ine,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/6ix9ine,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+409,Nate Dogg,"Long Beach, California",33.76833,-118.19556,https://en.wikipedia.org/wiki/Nate_Dogg,https://en.wikipedia.org/wiki/Long_Beach%2C_California,False,high,matched,
+410,Noriel,Hato Rey,18.4235,-66.0576,https://en.wikipedia.org/wiki/Noriel,https://en.wikipedia.org/wiki/Hato_Rey,False,high,matched,
+411,Vicente Fernández,Guadalajara,20.67667,-103.3475,https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez,https://en.wikipedia.org/wiki/Guadalajara,False,high,matched,
+412,Three Days Grace,Asphodel–Norwood,44.35306,-78.01833,https://en.wikipedia.org/wiki/Three_Days_Grace,https://en.wikipedia.org/wiki/Asphodel%E2%80%93Norwood,False,high,matched,
+413,Aerosmith,Boston,42.36028,-71.05778,https://en.wikipedia.org/wiki/Aerosmith,https://en.wikipedia.org/wiki/Boston,False,high,matched,
 414,Bee Gees,,,,https://en.wikipedia.org/wiki/Bee_Gees,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-415,Udit Narayan,,,,https://en.wikipedia.org/wiki/Udit_Narayan,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-416,Piso 21,,,,https://en.wikipedia.org/wiki/Piso_21,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-417,Rod Wave,,,,https://en.wikipedia.org/wiki/Rod_Wave,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-418,Vance Joy,,,,https://en.wikipedia.org/wiki/Vance_Joy,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-419,Bon Iver,,,,https://en.wikipedia.org/wiki/Bon_Iver,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-420,Eslabon Armado,,,,https://en.wikipedia.org/wiki/Eslabon_Armado,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-421,JENNIE,,,,https://en.wikipedia.org/wiki/JENNIE,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
+415,Udit Narayan,Supaul district,25.93,86.25,https://en.wikipedia.org/wiki/Udit_Narayan,https://en.wikipedia.org/wiki/Supaul_district,False,high,matched,
+416,Piso 21,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Piso_21,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
+417,Rod Wave,"St. Petersburg, Florida",27.82222,-82.67056,https://en.wikipedia.org/wiki/Rod_Wave,https://en.wikipedia.org/wiki/St._Petersburg%2C_Florida,False,high,matched,
+418,Vance Joy,Melbourne,-37.81417,144.96306,https://en.wikipedia.org/wiki/Vance_Joy,https://en.wikipedia.org/wiki/Melbourne,False,high,matched,
+419,Bon Iver,"Eau Claire, Wisconsin",44.817,-91.5,https://en.wikipedia.org/wiki/Bon_Iver,https://en.wikipedia.org/wiki/Eau_Claire%2C_Wisconsin,False,high,matched,
+420,Eslabon Armado,"Patterson, California",37.47306,-121.13278,https://en.wikipedia.org/wiki/Eslabon_Armado,https://en.wikipedia.org/wiki/Patterson%2C_California,False,high,matched,
+421,JENNIE,Seongnam,37.433,127.15,https://en.wikipedia.org/wiki/JENNIE,https://en.wikipedia.org/wiki/Seongnam,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
 422,Russ,,,,https://en.wikipedia.org/wiki/Russ,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-423,Rae Sremmurd,,,,https://en.wikipedia.org/wiki/Rae_Sremmurd,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-424,Jess Glynne,,,,https://en.wikipedia.org/wiki/Jess_Glynne,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-425,The Smiths,,,,https://en.wikipedia.org/wiki/The_Smiths,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+423,Rae Sremmurd,"Tupelo, Mississippi",34.25972,-88.72583,https://en.wikipedia.org/wiki/Rae_Sremmurd,https://en.wikipedia.org/wiki/Tupelo%2C_Mississippi,False,high,matched,
+424,Jess Glynne,Hampstead,51.5541,-0.1744,https://en.wikipedia.org/wiki/Jess_Glynne,https://en.wikipedia.org/wiki/Hampstead,False,high,matched,
+425,The Smiths,Manchester,53.47944,-2.24528,https://en.wikipedia.org/wiki/The_Smiths,https://en.wikipedia.org/wiki/Manchester,False,high,matched,
 426,Eagles,,,,https://en.wikipedia.org/wiki/Eagles,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
 427,The Police,,,,https://en.wikipedia.org/wiki/The_Police,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
 428,Phil Collins,,,,https://en.wikipedia.org/wiki/Phil_Collins,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-429,The Strokes,,,,https://en.wikipedia.org/wiki/The_Strokes,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-430,Atif Aslam,,,,https://en.wikipedia.org/wiki/Atif_Aslam,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-431,Ovy On The Drums,,,,https://en.wikipedia.org/wiki/Ovy_On_The_Drums,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-432,Olivia Dean,,,,https://en.wikipedia.org/wiki/Olivia_Dean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-433,Dire Straits,,,,https://en.wikipedia.org/wiki/Dire_Straits,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-434,NewJeans,,,,https://en.wikipedia.org/wiki/NewJeans,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-435,Avenged Sevenfold,,,,https://en.wikipedia.org/wiki/Avenged_Sevenfold,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-436,Ricardo Arjona,,,,https://en.wikipedia.org/wiki/Ricardo_Arjona,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-437,Los Ángeles Azules,,,,https://en.wikipedia.org/wiki/Los_%C3%81ngeles_Azules,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+429,The Strokes,New York City,40.7128,-74.0061,https://en.wikipedia.org/wiki/The_Strokes,https://en.wikipedia.org/wiki/New_York_City,False,high,matched,
+430,Atif Aslam,Wazirabad,32.43528,74.11417,https://en.wikipedia.org/wiki/Atif_Aslam,https://en.wikipedia.org/wiki/Wazirabad,False,high,matched,
+431,Ovy On The Drums,Medellín,6.23083,-75.59056,https://en.wikipedia.org/wiki/Ovy_On_The_Drums,https://en.wikipedia.org/wiki/Medell%C3%ADn,False,high,matched,
+432,Olivia Dean,Tottenham,51.5975,-0.06806,https://en.wikipedia.org/wiki/Olivia_Dean,https://en.wikipedia.org/wiki/Tottenham,False,high,matched,
+433,Dire Straits,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Dire_Straits,https://en.wikipedia.org/wiki/London,False,high,matched,
+434,NewJeans,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/NewJeans,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+435,Avenged Sevenfold,"Huntington Beach, California",33.69278,-118.00028,https://en.wikipedia.org/wiki/Avenged_Sevenfold,https://en.wikipedia.org/wiki/Huntington_Beach%2C_California,False,high,matched,
+436,Ricardo Arjona,Jocotenango,14.58194,-90.74361,https://en.wikipedia.org/wiki/Ricardo_Arjona,https://en.wikipedia.org/wiki/Jocotenango,False,high,matched,
+437,Los Ángeles Azules,Iztapalapa,19.35833,-99.09306,https://en.wikipedia.org/wiki/Los_%C3%81ngeles_Azules,https://en.wikipedia.org/wiki/Iztapalapa,False,high,matched,
 438,Rex Orange County,,,,https://en.wikipedia.org/wiki/Rex_Orange_County,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-439,ScHoolboy Q,,,,https://en.wikipedia.org/wiki/ScHoolboy_Q,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-440,6LACK,,,,https://en.wikipedia.org/wiki/6LACK,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+439,ScHoolboy Q,Wiesbaden,50.0825,8.24,https://en.wikipedia.org/wiki/ScHoolboy_Q,https://en.wikipedia.org/wiki/Wiesbaden,False,high,matched,
+440,6LACK,Baltimore,39.28944,-76.61528,https://en.wikipedia.org/wiki/6LACK,https://en.wikipedia.org/wiki/Baltimore,False,high,matched,
 441,Disclosure,,,,https://en.wikipedia.org/wiki/Disclosure,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-442,Brytiago,,,,https://en.wikipedia.org/wiki/Brytiago,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-443,Alesso,,,,https://en.wikipedia.org/wiki/Alesso,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-444,RAF Camora,,,,https://en.wikipedia.org/wiki/RAF_Camora,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-445,Nelly,,,,https://en.wikipedia.org/wiki/Nelly,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-446,Mumford & Sons,,,,https://en.wikipedia.org/wiki/Mumford_%26_Sons,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+442,Brytiago,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Brytiago,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,False,high,matched,
+443,Alesso,Stockholm,59.32944,18.06861,https://en.wikipedia.org/wiki/Alesso,https://en.wikipedia.org/wiki/Stockholm,False,high,matched,
+444,RAF Camora,Vevey,46.467,6.85,https://en.wikipedia.org/wiki/RAF_Camora,https://en.wikipedia.org/wiki/Vevey,False,high,matched,
+445,Nelly,"Austin, Texas",30.26722,-97.74306,https://en.wikipedia.org/wiki/Nelly,https://en.wikipedia.org/wiki/Austin%2C_Texas,False,high,matched,
+446,Mumford & Sons,London,51.50722,-0.1275,https://en.wikipedia.org/wiki/Mumford_%26_Sons,https://en.wikipedia.org/wiki/London,False,high,matched,
 447,Kumaar,,,,https://en.wikipedia.org/wiki/Kumaar,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-448,Pearl Jam,,,,https://en.wikipedia.org/wiki/Pearl_Jam,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+448,Pearl Jam,Seattle,47.60389,-122.33,https://en.wikipedia.org/wiki/Pearl_Jam,https://en.wikipedia.org/wiki/Seattle,False,high,matched,
 449,Zion,,,,https://en.wikipedia.org/wiki/Zion,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-450,Ryan Castro,,,,https://en.wikipedia.org/wiki/Ryan_Castro,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-451,Nelly Furtado,,,,https://en.wikipedia.org/wiki/Nelly_Furtado,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-452,Wesley Safadão,,,,https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-453,Disturbed,,,,https://en.wikipedia.org/wiki/Disturbed,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-454,H.E.R.,,,,https://en.wikipedia.org/wiki/H.E.R.,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-455,Rita Ora,,,,https://en.wikipedia.org/wiki/Rita_Ora,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+450,Ryan Castro,"Bello, Antioquia",6.333,-75.567,https://en.wikipedia.org/wiki/Ryan_Castro,https://en.wikipedia.org/wiki/Bello%2C_Antioquia,False,high,matched,
+451,Nelly Furtado,"Victoria, British Columbia",48.42833,-123.36472,https://en.wikipedia.org/wiki/Nelly_Furtado,https://en.wikipedia.org/wiki/Victoria%2C_British_Columbia,False,high,matched,
+452,Wesley Safadão,Fortaleza,-3.7275,-38.5275,https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o,https://en.wikipedia.org/wiki/Fortaleza,False,high,matched,
+453,Disturbed,Chicago,41.88194,-87.62778,https://en.wikipedia.org/wiki/Disturbed,https://en.wikipedia.org/wiki/Chicago%2C_Illinois,False,high,matched,
+454,H.E.R.,"Vallejo, California",38.11306,-122.23583,https://en.wikipedia.org/wiki/H.E.R.,https://en.wikipedia.org/wiki/Vallejo%2C_California,False,high,matched,
+455,Rita Ora,Pristina,42.66667,21.16667,https://en.wikipedia.org/wiki/Rita_Ora,https://en.wikipedia.org/wiki/Pristina,False,high,matched,
 456,Kevin Gates,,,,https://en.wikipedia.org/wiki/Kevin_Gates,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-457,beabadoobee,,,,https://en.wikipedia.org/wiki/Beabadoobee,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-458,Karan Aujla,,,,https://en.wikipedia.org/wiki/Karan_Aujla,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-459,Céline Dion,,,,https://en.wikipedia.org/wiki/C%C3%A9line_Dion,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-460,Bryan Adams,,,,https://en.wikipedia.org/wiki/Bryan_Adams,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-461,ENHYPEN,,,,https://en.wikipedia.org/wiki/ENHYPEN,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-462,Dominic Fike,,,,https://en.wikipedia.org/wiki/Dominic_Fike,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-463,Ana Castela,,,,https://en.wikipedia.org/wiki/Ana_Castela,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-464,LANY,,,,https://en.wikipedia.org/wiki/LANY,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-465,Johnny Cash,,,,https://en.wikipedia.org/wiki/Johnny_Cash,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-466,B.o.B,,,,https://en.wikipedia.org/wiki/B.o.B,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-467,Jason Aldean,,,,https://en.wikipedia.org/wiki/Jason_Aldean,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-468,Luan Santana,,,,https://en.wikipedia.org/wiki/Luan_Santana,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-469,KHEA,,,,https://en.wikipedia.org/wiki/Khea,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-470,Maiara & Maraisa,,,,https://en.wikipedia.org/wiki/Maiara_%26_Maraisa,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-471,Mc IG,,,,https://en.wikipedia.org/wiki/MC_IG,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-472,Tiago PZK,,,,https://en.wikipedia.org/wiki/Tiago_PZK,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-473,Tom Odell,,,,https://en.wikipedia.org/wiki/Tom_Odell,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-474,Macklemore & Ryan Lewis,,,,https://en.wikipedia.org/wiki/Macklemore_%26_Ryan_Lewis,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-475,Thomas Rhett,,,,https://en.wikipedia.org/wiki/Thomas_Rhett,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-476,MØ,,,,https://en.wikipedia.org/wiki/M%C3%98,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-477,Five Finger Death Punch,,,,https://en.wikipedia.org/wiki/Five_Finger_Death_Punch,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-478,Kane Brown,,,,https://en.wikipedia.org/wiki/Kane_Brown,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+457,beabadoobee,Beabadoobee,,,https://en.wikipedia.org/wiki/Beabadoobee,https://en.wikipedia.org/wiki/Beabadoobee,True,medium,origin_page_without_coordinates,Linked place page has no readable coordinates.
+458,Karan Aujla,Ludhiana district,30.883,75.85,https://en.wikipedia.org/wiki/Karan_Aujla,https://en.wikipedia.org/wiki/Ludhiana_district,False,high,matched,
+459,Céline Dion,"Charlemagne, Quebec",45.717,-73.483,https://en.wikipedia.org/wiki/C%C3%A9line_Dion,https://en.wikipedia.org/wiki/Charlemagne%2C_Quebec,False,high,matched,
+460,Bryan Adams,"Kingston, Ontario",44.23056,-76.48111,https://en.wikipedia.org/wiki/Bryan_Adams,https://en.wikipedia.org/wiki/Kingston%2C_Ontario,False,high,matched,
+461,ENHYPEN,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/ENHYPEN,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+462,Dominic Fike,"Naples, Florida",26.13611,-81.79444,https://en.wikipedia.org/wiki/Dominic_Fike,https://en.wikipedia.org/wiki/Naples%2C_Florida,False,high,matched,
+463,Ana Castela,Amambai,-23.10389,-55.22583,https://en.wikipedia.org/wiki/Ana_Castela,https://en.wikipedia.org/wiki/Amambai,False,high,matched,
+464,LANY,"Nashville, Tennessee",36.16222,-86.77444,https://en.wikipedia.org/wiki/LANY,https://en.wikipedia.org/wiki/Nashville,False,high,matched,
+465,Johnny Cash,"Kingsland, Arkansas",33.87,-92.27917,https://en.wikipedia.org/wiki/Johnny_Cash,https://en.wikipedia.org/wiki/Kingsland%2C_Arkansas,False,high,matched,
+466,B.o.B,"Winston-Salem, North Carolina",36.10278,-80.26083,https://en.wikipedia.org/wiki/B.o.B,https://en.wikipedia.org/wiki/Winston-Salem%2C_North_Carolina,False,high,matched,
+467,Jason Aldean,"Macon, Georgia",32.83472,-83.65167,https://en.wikipedia.org/wiki/Jason_Aldean,https://en.wikipedia.org/wiki/Macon%2C_Georgia,False,high,matched,
+468,Luan Santana,Campo Grande,-20.48389,-54.615,https://en.wikipedia.org/wiki/Luan_Santana,https://en.wikipedia.org/wiki/Campo_Grande,False,high,matched,
+469,KHEA,"Virreyes, Buenos Aires",-34.45,-58.533,https://en.wikipedia.org/wiki/Khea,https://en.wikipedia.org/wiki/Virreyes%2C_Buenos_Aires,False,high,matched,
+470,Maiara & Maraisa,São José dos Quatro Marcos,-15.6208,-58.1758,https://en.wikipedia.org/wiki/Maiara_%26_Maraisa,https://en.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Quatro_Marcos,False,high,matched,
+471,Mc IG,São Paulo,-23.55,-46.633,https://en.wikipedia.org/wiki/MC_IG,https://en.wikipedia.org/wiki/S%C3%A3o_Paulo,False,high,matched,
+472,Tiago PZK,Monte Grande,-34.827194,-58.462028,https://en.wikipedia.org/wiki/Tiago_PZK,https://en.wikipedia.org/wiki/Monte_Grande,False,high,matched,
+473,Tom Odell,Chichester,50.8365,-0.7792,https://en.wikipedia.org/wiki/Tom_Odell,https://en.wikipedia.org/wiki/Chichester,False,high,matched,
+474,Macklemore & Ryan Lewis,Seattle,47.60389,-122.33,https://en.wikipedia.org/wiki/Macklemore_%26_Ryan_Lewis,https://en.wikipedia.org/wiki/Seattle,False,high,matched,
+475,Thomas Rhett,"Valdosta, Georgia",30.84667,-83.28306,https://en.wikipedia.org/wiki/Thomas_Rhett,https://en.wikipedia.org/wiki/Valdosta%2C_Georgia,False,high,matched,
+476,MØ,Ubberud,55.39694,10.25583,https://en.wikipedia.org/wiki/M%C3%98,https://en.wikipedia.org/wiki/Ubberud,False,high,matched,
+477,Five Finger Death Punch,Las Vegas,36.16917,-115.14056,https://en.wikipedia.org/wiki/Five_Finger_Death_Punch,https://en.wikipedia.org/wiki/Las_Vegas,False,high,matched,
+478,Kane Brown,"Chattanooga, Tennessee",35.04583,-85.30944,https://en.wikipedia.org/wiki/Kane_Brown,https://en.wikipedia.org/wiki/Chattanooga%2C_Tennessee,False,high,matched,
 479,Laufey,,,,https://en.wikipedia.org/wiki/Laufey,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-480,Grupo Menos É Mais,,,,https://en.wikipedia.org/wiki/Grupo_Menos_%C3%A9_Mais,,True,low,origin_without_linked_place,Search resolved to a differently titled article; verify the artist identity. Origin row has no linked place page to read coordinates from.
-481,Nicki Nicole,,,,https://en.wikipedia.org/wiki/Nicki_Nicole,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-482,Moneybagg Yo,,,,https://en.wikipedia.org/wiki/Moneybagg_Yo,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+480,Grupo Menos É Mais,"Gama, Federal District",-16.01944,-48.06694,https://en.wikipedia.org/wiki/Grupo_Menos_%C3%A9_Mais,https://en.wikipedia.org/wiki/Gama%2C_Federal_District,True,low,needs_review,Search resolved to a differently titled article; verify the artist identity. Search selected the first result; confirm the artist match.
+481,Nicki Nicole,Rosario,-32.9575,-60.63944,https://en.wikipedia.org/wiki/Nicki_Nicole,https://en.wikipedia.org/wiki/Rosario,False,high,matched,
+482,Moneybagg Yo,"Memphis, Tennessee",35.14611,-90.05194,https://en.wikipedia.org/wiki/Moneybagg_Yo,https://en.wikipedia.org/wiki/Memphis%2C_Tennessee,False,high,matched,
 483,Magenta,,,,https://en.wikipedia.org/wiki/Magenta,,True,unmatched,no_origin_field,No recognized origin row was found in the article infobox.
-484,Ryan Lewis,,,,https://en.wikipedia.org/wiki/Ryan_Lewis,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+484,Ryan Lewis,"Spokane, Washington",47.65889,-117.425,https://en.wikipedia.org/wiki/Ryan_Lewis,https://en.wikipedia.org/wiki/Spokane%2C_Washington,False,high,matched,
 485,Morad,,,,https://en.wikipedia.org/wiki/Morad,,True,unmatched,no_origin_field,Search resolved to a differently titled article; verify the artist identity. No recognized origin row was found in the article infobox.
-486,Calum Scott,,,,https://en.wikipedia.org/wiki/Calum_Scott,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-487,TOMORROW X TOGETHER,,,,https://en.wikipedia.org/wiki/Tomorrow_X_Together,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-488,Grupo Marca Registrada,,,,https://en.wikipedia.org/wiki/Grupo_Marca_Registrada,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-489,benny blanco,,,,https://en.wikipedia.org/wiki/Benny_blanco,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-490,JID,,,,https://en.wikipedia.org/wiki/JID,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+486,Calum Scott,Beverley,53.84361,-0.43,https://en.wikipedia.org/wiki/Calum_Scott,https://en.wikipedia.org/wiki/Beverley,False,high,matched,
+487,TOMORROW X TOGETHER,Seoul,37.56,126.99,https://en.wikipedia.org/wiki/Tomorrow_X_Together,https://en.wikipedia.org/wiki/Seoul,False,high,matched,
+488,Grupo Marca Registrada,Culiacán,24.80694,-107.39389,https://en.wikipedia.org/wiki/Grupo_Marca_Registrada,https://en.wikipedia.org/wiki/Culiac%C3%A1n,False,high,matched,
+489,benny blanco,"Reston, Virginia",38.95889,-77.35861,https://en.wikipedia.org/wiki/Benny_blanco,https://en.wikipedia.org/wiki/Reston%2C_Virginia,False,high,matched,
+490,JID,Atlanta,33.74889,-84.39,https://en.wikipedia.org/wiki/JID,https://en.wikipedia.org/wiki/Atlanta,False,high,matched,
 491,YNW Melly,,,,https://en.wikipedia.org/wiki/YNW_Melly,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-493,Los Temerarios,,,,https://en.wikipedia.org/wiki/Los_Temerarios,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-492,Juan Gabriel,,,,https://en.wikipedia.org/wiki/Juan_Gabriel,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-494,Jason Mraz,,,,https://en.wikipedia.org/wiki/Jason_Mraz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-495,The Cure,,,,https://en.wikipedia.org/wiki/The_Cure,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-496,The Marías,,,,https://en.wikipedia.org/wiki/The_Mar%C3%ADas,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-497,Limp Bizkit,,,,https://en.wikipedia.org/wiki/Limp_Bizkit,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-498,Korn,,,,https://en.wikipedia.org/wiki/Korn,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
-499,Omar Courtz,,,,https://en.wikipedia.org/wiki/Omar_Courtz,,True,low,origin_without_linked_place,Origin row has no linked place page to read coordinates from.
+493,Los Temerarios,Fresnillo,23.175,-102.8675,https://en.wikipedia.org/wiki/Los_Temerarios,https://en.wikipedia.org/wiki/Fresnillo%2C_Zacatecas,False,high,matched,
+492,Juan Gabriel,Parácuaro,19.14667,-102.21944,https://en.wikipedia.org/wiki/Juan_Gabriel,https://en.wikipedia.org/wiki/Par%C3%A1cuaro,False,high,matched,
+494,Jason Mraz,"Mechanicsville, Virginia",37.60389,-77.37222,https://en.wikipedia.org/wiki/Jason_Mraz,https://en.wikipedia.org/wiki/Mechanicsville%2C_Virginia,False,high,matched,
+495,The Cure,Crawley,51.10917,-0.18722,https://en.wikipedia.org/wiki/The_Cure,https://en.wikipedia.org/wiki/Crawley,False,high,matched,
+496,The Marías,Los Angeles,34.05,-118.25,https://en.wikipedia.org/wiki/The_Mar%C3%ADas,https://en.wikipedia.org/wiki/Los_Angeles,False,high,matched,
+497,Limp Bizkit,"Jacksonville, Florida",30.32611,-81.65806,https://en.wikipedia.org/wiki/Limp_Bizkit,https://en.wikipedia.org/wiki/Jacksonville%2C_Florida,False,high,matched,
+498,Korn,"Bakersfield, California",35.3733,-119.0189,https://en.wikipedia.org/wiki/Korn,https://en.wikipedia.org/wiki/Bakersfield%2C_California,False,high,matched,
+499,Omar Courtz,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Omar_Courtz,https://en.wikipedia.org/wiki/Carolina%2C_Puerto_Rico,False,high,matched,
